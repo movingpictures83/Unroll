@@ -1,0 +1,2267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="bootscore" attr.type="float" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="float" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="s__bacteroides_ovatus_ti" />
+    <node id="s__odoribacter_splanchnicus_ti" />
+    <node id="m__hmdb00630_ti" />
+    <node id="s__bacteroides_caccae_ti" />
+    <node id="s__bacteroides_finegoldii_ti" />
+    <node id="s__bacteroides_xylanisolvens_ti" />
+    <node id="m__hmdb02322_ti" />
+    <node id="m__hmdb00239_ti" />
+    <node id="s__escherichia_coli_ti" />
+    <node id="m__hmdb01257_ti" />
+    <node id="s__alistipes_shahii_ti" />
+    <node id="m__hmdb00043_ti" />
+    <node id="m__hmdb00097_ti" />
+    <node id="s__bacteroides_cellulosilyticus_ti" />
+    <node id="s__haemophilus_parainfluenzae_ti" />
+    <node id="m__hmdb00619_ti" />
+    <node id="m__hmdb00089_ti" />
+    <node id="s__bacteroides_faecis_ti" />
+    <node id="m__hmdb01149_ti" />
+    <node id="s__bacteroides_stercoris_ti" />
+    <node id="m__hmdb00289_ti" />
+    <node id="s__ruminococcus_torques_ti" />
+    <node id="m__hmdb00020_ti" />
+    <node id="s__roseburia_intestinalis_ti" />
+    <node id="m__hmdb00764_ti" />
+    <node id="s__clostridium_bolteae_ti" />
+    <node id="s__streptococcus_parasanguinis_ti" />
+    <node id="s__bacteroides_thetaiotaomicron_ti" />
+    <node id="s__klebsiella_pneumoniae_ti" />
+    <node id="s__eubacterium_ventriosum_ti" />
+    <node id="s__bacteroides_fragilis_ti" />
+    <node id="m__hmdb00014_ti" />
+    <node id="m__hmdb00209_ti" />
+    <node id="m__hmdb00056_ti" />
+    <node id="s__clostridium_clostridioforme_ti" />
+    <node id="s__faecalibacterium_prausnitzii_ti" />
+    <node id="s__akkermansia_muciniphila_ti" />
+    <node id="m__hmdb00251_ti" />
+    <node id="s__bifidobacterium_longum_ti" />
+    <node id="s__bacteroides_uniformis_ti" />
+    <node id="s__roseburia_inulinivorans_ti" />
+    <node id="m__hmdb00296_ti" />
+    <node id="s__eubacterium_rectale_ti" />
+    <node id="m__hmdb00195_ti" />
+    <node id="s__eubacterium_siraeum_ti" />
+    <node id="m__hmdb00030_ti" />
+    <node id="s__bacteroides_ovatus_ti+1" />
+    <node id="s__odoribacter_splanchnicus_ti+1" />
+    <node id="m__hmdb00630_ti+1" />
+    <node id="s__bacteroides_caccae_ti+1" />
+    <node id="s__bacteroides_finegoldii_ti+1" />
+    <node id="s__bacteroides_xylanisolvens_ti+1" />
+    <node id="m__hmdb02322_ti+1" />
+    <node id="m__hmdb00239_ti+1" />
+    <node id="s__escherichia_coli_ti+1" />
+    <node id="m__hmdb01257_ti+1" />
+    <node id="s__alistipes_shahii_ti+1" />
+    <node id="m__hmdb00043_ti+1" />
+    <node id="m__hmdb00097_ti+1" />
+    <node id="s__bacteroides_cellulosilyticus_ti+1" />
+    <node id="s__haemophilus_parainfluenzae_ti+1" />
+    <node id="m__hmdb00619_ti+1" />
+    <node id="m__hmdb00089_ti+1" />
+    <node id="s__bacteroides_faecis_ti+1" />
+    <node id="m__hmdb01149_ti+1" />
+    <node id="s__bacteroides_stercoris_ti+1" />
+    <node id="m__hmdb00289_ti+1" />
+    <node id="s__ruminococcus_torques_ti+1" />
+    <node id="m__hmdb00020_ti+1" />
+    <node id="s__roseburia_intestinalis_ti+1" />
+    <node id="m__hmdb00764_ti+1" />
+    <node id="s__clostridium_bolteae_ti+1" />
+    <node id="s__streptococcus_parasanguinis_ti+1" />
+    <node id="s__bacteroides_thetaiotaomicron_ti+1" />
+    <node id="s__klebsiella_pneumoniae_ti+1" />
+    <node id="s__eubacterium_ventriosum_ti+1" />
+    <node id="s__bacteroides_fragilis_ti+1" />
+    <node id="m__hmdb00014_ti+1" />
+    <node id="m__hmdb00209_ti+1" />
+    <node id="m__hmdb00056_ti+1" />
+    <node id="s__clostridium_clostridioforme_ti+1" />
+    <node id="s__faecalibacterium_prausnitzii_ti+1" />
+    <node id="s__akkermansia_muciniphila_ti+1" />
+    <node id="m__hmdb00251_ti+1" />
+    <node id="s__bifidobacterium_longum_ti+1" />
+    <node id="s__bacteroides_uniformis_ti+1" />
+    <node id="s__roseburia_inulinivorans_ti+1" />
+    <node id="m__hmdb00296_ti+1" />
+    <node id="s__eubacterium_rectale_ti+1" />
+    <node id="m__hmdb00195_ti+1" />
+    <node id="s__eubacterium_siraeum_ti+1" />
+    <node id="m__hmdb00030_ti+1" />
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.2207603436680405</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.21713439579519037</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.2329681249774646</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.21359793987334766</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.26932188946964</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.23559508996981302</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.21642400744915868</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.20716029251709633</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.24847167241186013</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.19472114568712015</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.19745569569617824</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.1829419710690807</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.2351790127155879</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.17440254164167202</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.2310763422775131</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.2611166404343073</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.22558583801757487</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.2275695512680538</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.2440138784578404</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.2445565471076336</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2375497313928376</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.18401690492020367</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.21842603118496495</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.19263682697298876</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.23569368024069332</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.2074236326553978</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.21881955551605234</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.20816658840651805</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.21637068877083865</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.234209783833319</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.21815280659630013</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.1820668420792394</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb02322_ti+1">
+      <data key="d0">0.1942414732026662</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.1272361859140027</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.18868588593678942</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.15740779682452877</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.20297537871671623</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20658945822527056</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.2282154819177797</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.18782378135419756</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.19186230088491774</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.20105722893603287</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_finegoldii_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.18720105299903633</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_finegoldii_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.21700297282367761</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_finegoldii_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.16407707721682022</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="s__bacteroides_finegoldii_ti+1">
+      <data key="d0">0.22976448931551108</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.22478820530151145</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.23262061206455045</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.22319014296515755</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.20350975782586478</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.2557249879289864</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.2505410955127789</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb02322_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.19655392299457605</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb02322_ti" target="m__hmdb02322_ti+1">
+      <data key="d0">0.21631873679748945</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb02322_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.2652875997071858</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.22459148149488065</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.2517570223593122</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.12922923647128412</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.18955031478878182</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.22882117680277625</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00239_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.22739571148435775</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.21162880256335395</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.21502514810472756</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.18545304237549215</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.2397937682594077</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20296324524039064</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.20967585707863295</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.21163003798758104</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.19930962576012964</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.22939416076827254</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.1950755660314227</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.17206517481157912</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2738261202854663</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.21749011329795148</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.2259471031111192</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.1562960614443479</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.19423484667507235</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.21646169532890028</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.24671323986381222</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.22776477002955717</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.22506052455545164</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.25000446243006924</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.1986530157356622</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2123045294629389</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="s__bacteroides_finegoldii_ti+1">
+      <data key="d0">0.18357956828767008</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.21458192296214149</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.18850779621273536</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.19819555677280498</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.22682035416595872</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.20273325951475651</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.19343243259827309</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2359061291165758</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.19363637706537087</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.21998835832811367</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22608379752274993</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.17722280100524546</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.18689813885583975</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2348005161601125</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.22127645136305618</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.24660382496923994</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.19647017928495913</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.14766807302027382</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22699175443207487</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.2205677761151841</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.2122465062033455</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.2335686818205872</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00097_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.18912944802637516</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.1689419650583817</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.21451015878348692</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.1283981356313361</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.1989268094015522</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.2228333503733704</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.23291853817117228</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.2532588089028774</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.22227118228745582</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.1845074801025709</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.23303763815084386</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.23362111715000686</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.29210480108889636</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.18338708563611086</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.23640963971431408</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.210991455078391</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.18443188481607564</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.2524073304357528</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.27222309317941984</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.2353618436051842</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.22138712807980168</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.1967023461618943</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.10613380425759257</data>
+      <data key="d1">0.5454545454545454</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22022438618221252</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.2279519635241562</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.1937430632626018</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.20808110662021553</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.24662855760319002</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00619_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2166347362984024</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__odoribacter_splanchnicus_ti+1">
+      <data key="d0">0.2206518585297154</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.212943105627978</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.2043886217375672</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.189778859626104</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.2074190090712034</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.24316137686263486</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.20838912544324895</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.22870428608149282</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00089_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2435652915430926</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.19355673665340847</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.14343478871421417</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.21434368478974067</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20926056668156343</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.21719273115899076</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.16953130607450922</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.17393712198419925</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.21489125009503568</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.2414728422978496</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.21067575932587498</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.2033305705106887</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.13852230230638188</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="m__hmdb01149_ti+1">
+      <data key="d0">0.13819113509116285</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.22825538357855218</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.19456084190830902</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.24287039846333258</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.18899553640355038</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.20459560787002784</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.23092877443403623</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.235153296817864</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.23369033564815853</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.18992082313023373</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.21902704716651186</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22428980823422054</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.2265349577153172</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.2230916100796436</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.21783194460212857</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.21898394700799423</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.23002200672672488</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.20390042974870629</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.21168078751612207</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.2584768953098464</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.21399016041578187</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.18404080806976417</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.2522228380393661</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.2546000042464848</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.23597738432782925</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.23105284607475535</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.20594251884444653</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.23808897656069028</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.16537509327369176</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.25049319982326845</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.12424427216139787</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.18861068350065333</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00020_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.24389944336888758</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2010751729538683</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.2388567935320018</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.2006844458382398</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.11682826300193824</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20561327590230258</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2362719155178093</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2525856240988483</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.23675890404007338</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.24310718280581115</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.10749272305744358</data>
+      <data key="d1">0.6363636363636364</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.20271435886756875</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.20370379906957278</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.23091995260318968</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.24559496962281402</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.18806243478339396</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.16478816519573453</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.2010175618531874</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20107340646595767</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.1943696921597472</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.19080159833419333</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.1801530848207716</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.1946345152622211</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.18519982872394358</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.17748019234325543</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.2769718982263791</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.1824402569634974</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.18575816865205821</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.1873025695610602</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.1972393217940861</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.19879464867032245</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.2152987318169557</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.18973043866332223</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.19941718251251503</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.18211597731856985</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.2591994071377359</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.19886596567500311</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.17688037239299653</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.23684396169602137</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.2256364193505906</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.18086458249367177</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.18840785040325134</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.19942312774639703</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.20188179967308448</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.2002358415344604</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.18834873339191158</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.20813085734312387</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.20520424597875514</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.21084885761042982</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.2103849117155013</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.20002755576634196</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.18991619931724052</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.20650644143259703</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.17724273926605447</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.24052583969412591</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.2422741192807556</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.16388235764068362</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.21984179579351898</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.20215986388341606</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.22872584387905984</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.2069999003903135</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.19456392738817715</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.24718029734399583</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb02322_ti+1">
+      <data key="d0">0.21389564013286824</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.2162809585854507</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.2200919793818841</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.22262685299180313</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.2408516370473273</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb01149_ti+1">
+      <data key="d0">0.23581619761864925</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.21257296299214376</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.2170670531782758</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.17105829130171216</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.2094971765001727</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.15108611777278355</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.22423972877016513</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.24406583830435524</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.24013405135987947</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.20107357627179615</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.21312508547364606</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.23287638502983363</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.22424113872001888</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.21126701756249625</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.19255462004365045</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.24002322627131553</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.1790256601082164</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.1795466595771597</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.21197594908296705</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.1932769021342999</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2656168949242686</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.19567976257526976</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.22900818064363512</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.21124130953709394</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.24480241161443733</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.2084463847001342</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.21265988066092192</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22801700928894528</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.18258963210932525</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.19948838215476883</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.21477643131959712</data>
+      <data key="d1">0.5454545454545454</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.21274494364694044</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.2646431619910421</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2210222823585511</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.20913475933830633</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="m__hmdb00239_ti+1">
+      <data key="d0">0.25118120944501066</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.19771051555152033</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.1441736400400022</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.20777833638550328</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.17117667654436916</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.18020014017475064</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.22485811539997258</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.21568883574470937</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.2043025704239114</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.15352895539823386</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.2593213621480434</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb01149_ti+1">
+      <data key="d0">0.173816305675043</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.2119021339605258</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.15623964080439726</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.23679308752372083</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.17003144346237845</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.10551946634821595</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.2505341516284138</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.2241983483470644</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.14374129925951878</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.20618034292724816</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.17115721819347318</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.26593556239707206</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.2324383785768109</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.22351117626246902</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.23077099853338218</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.18528028020053622</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.22133365734273036</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.22403523656752497</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.21455730213018168</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.21585782654637609</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.20365939420578905</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="m__hmdb00251_ti+1">
+      <data key="d0">0.15073473476038463</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00251_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.20039629672106332</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="s__bacteroides_finegoldii_ti+1">
+      <data key="d0">0.17811740851953847</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.21580813673979782</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb01257_ti+1">
+      <data key="d0">0.205705192737493</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.2278954740324561</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00097_ti+1">
+      <data key="d0">0.15422692681557298</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.20572734262488604</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00289_ti+1">
+      <data key="d0">0.19426133248714664</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00056_ti+1">
+      <data key="d0">0.21180212838243503</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.1972084080676556</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.18129885737306034</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.23716195355366035</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.20701022983728548</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.18614607493045057</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="m__hmdb00043_ti+1">
+      <data key="d0">0.26379347236153355</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="m__hmdb00089_ti+1">
+      <data key="d0">0.23158206515297203</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="m__hmdb00020_ti+1">
+      <data key="d0">0.20244284822843486</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="m__hmdb00764_ti+1">
+      <data key="d0">0.20200332691524175</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.22632893746250948</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.1614134808490359</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.23334666357674083</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.21872398062229326</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="m__hmdb00630_ti+1">
+      <data key="d0">0.17104909757257614</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.21864775213904944</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.18614671761405302</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.2149886394104498</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.23005115745930096</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="m__hmdb00014_ti+1">
+      <data key="d0">0.19822014635620608</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.2643777037161841</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.22231947699462093</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.1897904280338185</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.18308608565157083</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.19334589752533898</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.19635390796636257</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2409671878887327</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.18954880244871275</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.23727645317226734</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.22315432416341785</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.22770374444878846</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.19414216399581957</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="m__hmdb00296_ti+1">
+      <data key="d0">0.1442729919343135</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00296_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.21446327865468778</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="m__hmdb00619_ti+1">
+      <data key="d0">0.21395572347201652</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.2211487613878772</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.24265250742388167</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.21797502454309717</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2561358405421302</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.21206865015772794</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.220676456087973</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.2136476714017469</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.20870117365512894</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.22655402872892016</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.2043115357579798</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.20371436024258294</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.23131145924389698</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.22890093764840094</data>
+      <data key="d1">0.36363636363636365</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.22398476122345973</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.19825220225805654</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.1931213443606339</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.1763319330148834</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.15954907215810488</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="m__hmdb00209_ti+1">
+      <data key="d0">0.22006973829770898</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.20205323888589397</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.21982794433187144</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.20883137652430284</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.24423632410312415</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.19395451960442814</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.2264071567354601</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.21908605851658802</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti" target="m__hmdb00030_ti+1">
+      <data key="d0">0.24208398279896376</data>
+      <data key="d1">0.45454545454545453</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.17128927228257118</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.21497190204518912</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.20793803301842706</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.18427546717569812</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.20632598166690277</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.16918718570465158</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.2034472494915297</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.2304756450252687</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.25806967237219064</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_ovatus_ti+1" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.19878748614018124</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__odoribacter_splanchnicus_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.16914649556113545</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__odoribacter_splanchnicus_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.15944899574597493</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00630_ti+1" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.1945635589369042</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.25061975050251223</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.2255105300685398</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.18666959711797507</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti+1" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.20720540523705464</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_caccae_ti+1" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.22460306607104116</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_finegoldii_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.18067857990028233</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti+1" target="m__hmdb00630_ti+1">
+      <data key="d0">0.1945635589369042</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.22604641913587953</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.17308244217741306</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_xylanisolvens_ti+1" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.19057177029727293</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.22604641913587953</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.16161929202095104</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.20019516211968538</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="m__hmdb00289_ti+1">
+      <data key="d0">0.1338511273661205</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.1822965159621087</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.12912425561991145</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.21296705959443685</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.15296630310677306</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01257_ti+1" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.15276904838419123</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.15453641434747833</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.21779792995687666</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti+1" target="m__hmdb00764_ti+1">
+      <data key="d0">0.17141772948377107</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__alistipes_shahii_ti+1" target="m__hmdb00030_ti+1">
+      <data key="d0">0.16619705465968873</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.17128927228257118</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.16161929202095104</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00043_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.1608385016106847</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti+1" target="m__hmdb01257_ti+1">
+      <data key="d0">0.15276904838419123</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti+1" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.13279700512832135</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_cellulosilyticus_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.16438372672403892</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.21497190204518912</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.25061975050251223</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.20019516211968538</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.25286096095465527</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.13368945617825254</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.12696959491180967</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.2220540904583169</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__haemophilus_parainfluenzae_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.20576739085533882</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti+1" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.13279700512832135</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti+1" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.15948356118372767</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti+1" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.16549352160362416</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti+1" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.1706649318870219</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_faecis_ti+1" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.14177234871293082</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb01149_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.18188986144875205</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.17308244217741306</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.15453641434747833</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.1366320451346202</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.1751104786497376</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.22294754439719985</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.20793803301842706</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00289_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.1338511273661205</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.18427546717569812</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__odoribacter_splanchnicus_ti+1">
+      <data key="d0">0.16914649556113545</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.21779792995687666</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.25286096095465527</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.2023576919817433</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.1837992055544099</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.18335225738526975</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__ruminococcus_torques_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.16918252659447483</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.20632598166690277</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__odoribacter_splanchnicus_ti+1">
+      <data key="d0">0.15944899574597493</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.2255105300685398</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="m__hmdb01149_ti+1">
+      <data key="d0">0.18188986144875205</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.2023576919817433</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.1783313978960675</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.1380700136348136</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.16503157968557539</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.16918718570465158</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00764_ti+1" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.17141772948377107</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2034472494915297</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.18666959711797507</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.13368945617825254</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.1366320451346202</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.1837992055544099</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.1783313978960675</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.16271929633003793</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="m__hmdb00209_ti+1">
+      <data key="d0">0.15180770606031466</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_bolteae_ti+1" target="s__roseburia_inulinivorans_ti+1">
+      <data key="d0">0.1703435146690927</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.2304756450252687</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.1822965159621087</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="m__hmdb00043_ti+1">
+      <data key="d0">0.1608385016106847</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.12696959491180967</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.18335225738526975</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.15980674198972827</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="m__hmdb00014_ti+1">
+      <data key="d0">0.1939069050386317</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__streptococcus_parasanguinis_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.187555830222027</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.25806967237219064</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti+1" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.16950551063832003</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_thetaiotaomicron_ti+1" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.25398579993251713</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.12912425561991145</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.15980674198972827</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.18147877631710596</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti+1" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.15948356118372767</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.1380700136348136</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.16271929633003793</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_ventriosum_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.15854195675919758</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti+1" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.20720540523705464</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_fragilis_ti+1" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.14976321981330504</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00014_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.1939069050386317</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.2220540904583169</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti+1" target="s__ruminococcus_torques_ti+1">
+      <data key="d0">0.16918252659447483</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00209_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.15180770606031466</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.1751104786497376</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00056_ti+1" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.10764107269588025</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti+1" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.16950551063832003</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti+1" target="s__bifidobacterium_longum_ti+1">
+      <data key="d0">0.15731214733343657</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti+1" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.13836411261560727</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__clostridium_clostridioforme_ti+1" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.1668522669262458</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti+1" target="s__bacteroides_caccae_ti+1">
+      <data key="d0">0.22460306607104116</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti+1" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.16549352160362416</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti+1" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.18147877631710596</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti+1" target="m__hmdb00056_ti+1">
+      <data key="d0">0.10764107269588025</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti+1" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.1706649318870219</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bifidobacterium_longum_ti+1" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.15731214733343657</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.21296705959443685</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="s__bacteroides_faecis_ti+1">
+      <data key="d0">0.14177234871293082</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="s__bacteroides_thetaiotaomicron_ti+1">
+      <data key="d0">0.25398579993251713</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.13836411261560727</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.15296630310677306</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.22294754439719985</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__roseburia_inulinivorans_ti+1" target="s__clostridium_bolteae_ti+1">
+      <data key="d0">0.1703435146690927</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__bacteroides_finegoldii_ti+1">
+      <data key="d0">0.18067857990028233</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__bacteroides_cellulosilyticus_ti+1">
+      <data key="d0">0.16438372672403892</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__haemophilus_parainfluenzae_ti+1">
+      <data key="d0">0.20576739085533882</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.16503157968557539</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__streptococcus_parasanguinis_ti+1">
+      <data key="d0">0.187555830222027</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__eubacterium_ventriosum_ti+1">
+      <data key="d0">0.15854195675919758</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.15822721453901753</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__eubacterium_siraeum_ti+1">
+      <data key="d0">0.18656757264564988</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.15822721453901753</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti+1" target="s__bacteroides_ovatus_ti+1">
+      <data key="d0">0.19878748614018124</data>
+      <data key="d1">0.2727272727272727</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti+1" target="s__bacteroides_xylanisolvens_ti+1">
+      <data key="d0">0.19057177029727293</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti+1" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.14976321981330504</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti+1" target="s__clostridium_clostridioforme_ti+1">
+      <data key="d0">0.1668522669262458</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_siraeum_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.18656757264564988</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+    <edge id="0" source="m__hmdb00030_ti+1" target="s__alistipes_shahii_ti+1">
+      <data key="d0">0.16619705465968873</data>
+      <data key="d1">0.18181818181818182</data>
+    </edge>
+  </graph>
+</graphml>

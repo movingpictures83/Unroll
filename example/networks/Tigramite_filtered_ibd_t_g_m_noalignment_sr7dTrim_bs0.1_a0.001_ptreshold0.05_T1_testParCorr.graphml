@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="bootscore" attr.type="float" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="float" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="s__bacteroides_fragilis_ti" />
+    <node id="s__akkermansia_muciniphila_ti" />
+    <node id="s__bacteroides_uniformis_ti" />
+    <node id="g__aldose 1-epimerase_ti" />
+    <node id="g__shikimate kinase_ti" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti" />
+    <node id="s__bacteroides_stercoris_ti" />
+    <node id="s__eubacterium_rectale_ti" />
+    <node id="s__escherichia_coli_ti" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" />
+    <node id="s__roseburia_intestinalis_ti" />
+    <node id="m__hmdb00195_ti" />
+    <node id="s__faecalibacterium_prausnitzii_ti" />
+    <node id="s__klebsiella_pneumoniae_ti" />
+    <node id="s__bacteroides_fragilis_ti+1" />
+    <node id="s__akkermansia_muciniphila_ti+1" />
+    <node id="s__bacteroides_uniformis_ti+1" />
+    <node id="g__aldose 1-epimerase_ti+1" />
+    <node id="g__shikimate kinase_ti+1" />
+    <node id="g__acetyl-coa c-acetyltransferase_ti+1" />
+    <node id="s__bacteroides_stercoris_ti+1" />
+    <node id="s__eubacterium_rectale_ti+1" />
+    <node id="s__escherichia_coli_ti+1" />
+    <node id="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1" />
+    <node id="s__roseburia_intestinalis_ti+1" />
+    <node id="m__hmdb00195_ti+1" />
+    <node id="s__faecalibacterium_prausnitzii_ti+1" />
+    <node id="s__klebsiella_pneumoniae_ti+1" />
+    <edge id="0" source="s__bacteroides_fragilis_ti" target="s__bacteroides_fragilis_ti+1">
+      <data key="d0">0.48833075457945435</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.7087165040563385</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">-0.4666279050282337</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__eubacterium_rectale_ti">
+      <data key="d0">0.45071753533583764</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">-0.22492714973388325</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">0.8526452722555221</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="g__aldose 1-epimerase_ti">
+      <data key="d0">-0.14533490418090525</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti" target="g__acetyl-coa c-acetyltransferase_ti">
+      <data key="d0">-0.15636724009031494</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="g__aldose 1-epimerase_ti" target="g__aldose 1-epimerase_ti+1">
+      <data key="d0">0.9921876532194709</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti" target="g__shikimate kinase_ti+1">
+      <data key="d0">0.9963437169136016</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">-0.09191122339975152</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="g__shikimate kinase_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.22216144510854502</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="g__acetyl-coa c-acetyltransferase_ti" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">0.9747616198616564</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="g__acetyl-coa c-acetyltransferase_ti">
+      <data key="d0">0.3290090935336493</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.6810203724163982</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__eubacterium_rectale_ti">
+      <data key="d0">0.2865849922536884</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="s__escherichia_coli_ti">
+      <data key="d0">0.45727823203223145</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti">
+      <data key="d0">0.26831803636333307</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__akkermansia_muciniphila_ti">
+      <data key="d0">0.45071753533583764</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__bacteroides_stercoris_ti">
+      <data key="d0">0.2865849922536884</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.7297559866954825</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti" target="s__roseburia_intestinalis_ti">
+      <data key="d0">-0.04200257745592911</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__bacteroides_stercoris_ti">
+      <data key="d0">0.45727823203223145</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.4382430626283357</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.8211810187731878</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__faecalibacterium_prausnitzii_ti">
+      <data key="d0">-0.30240262502957</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti" target="s__klebsiella_pneumoniae_ti">
+      <data key="d0">0.33578819854825515</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">-0.13251301848052652</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1">
+      <data key="d0">0.9872053236841012</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">-0.2607741758982723</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__eubacterium_rectale_ti">
+      <data key="d0">-0.04200257745592911</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.8923463199865446</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="m__hmdb00195_ti">
+      <data key="d0">0.19871021510865772</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti" target="s__faecalibacterium_prausnitzii_ti">
+      <data key="d0">0.6541370566289829</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__bacteroides_uniformis_ti+1">
+      <data key="d0">-0.39459357732881273</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="g__aldose 1-epimerase_ti+1">
+      <data key="d0">0.38749314893582076</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">-0.42912172003983495</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.29448275004054414</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="m__hmdb00195_ti" target="m__hmdb00195_ti+1">
+      <data key="d0">0.989921520845633</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__escherichia_coli_ti">
+      <data key="d0">-0.30240262502957</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__roseburia_intestinalis_ti">
+      <data key="d0">0.6541370566289829</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="m__hmdb00195_ti">
+      <data key="d0">0.2879200272693204</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.7408011150850182</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="g__shikimate kinase_ti">
+      <data key="d0">-0.466374247916284</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="g__acetyl-coa c-acetyltransferase_ti">
+      <data key="d0">0.02780603970323256</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__escherichia_coli_ti">
+      <data key="d0">0.33578819854825515</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti">
+      <data key="d0">-0.4600309793307261</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="m__hmdb00195_ti">
+      <data key="d0">-0.4295450689370015</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.7142498355438498</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__akkermansia_muciniphila_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.45071753533583764</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="g__aldose 1-epimerase_ti+1">
+      <data key="d0">-0.14533490418090525</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_uniformis_ti+1" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">-0.15636724009031494</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">0.3290090935336493</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">0.2865849922536884</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.45727823203223145</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__bacteroides_stercoris_ti+1" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1">
+      <data key="d0">0.26831803636333307</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__akkermansia_muciniphila_ti+1">
+      <data key="d0">0.45071753533583764</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.2865849922536884</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__eubacterium_rectale_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">-0.04200257745592911</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__bacteroides_stercoris_ti+1">
+      <data key="d0">0.45727823203223145</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">-0.30240262502957</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__escherichia_coli_ti+1" target="s__klebsiella_pneumoniae_ti+1">
+      <data key="d0">0.33578819854825515</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__eubacterium_rectale_ti+1">
+      <data key="d0">-0.04200257745592911</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.19871021510865772</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__roseburia_intestinalis_ti+1" target="s__faecalibacterium_prausnitzii_ti+1">
+      <data key="d0">0.6541370566289829</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">-0.30240262502957</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti+1" target="s__roseburia_intestinalis_ti+1">
+      <data key="d0">0.6541370566289829</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__faecalibacterium_prausnitzii_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">0.2879200272693204</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="g__shikimate kinase_ti+1">
+      <data key="d0">-0.466374247916284</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="g__acetyl-coa c-acetyltransferase_ti+1">
+      <data key="d0">0.02780603970323256</data>
+      <data key="d1">1.0</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="s__escherichia_coli_ti+1">
+      <data key="d0">0.33578819854825515</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="g__3-methyl-2-oxobutanoate hydroxymethyltransferase_ti+1">
+      <data key="d0">-0.4600309793307261</data>
+      <data key="d1">0.5</data>
+    </edge>
+    <edge id="0" source="s__klebsiella_pneumoniae_ti+1" target="m__hmdb00195_ti+1">
+      <data key="d0">-0.4295450689370015</data>
+      <data key="d1">0.5</data>
+    </edge>
+  </graph>
+</graphml>

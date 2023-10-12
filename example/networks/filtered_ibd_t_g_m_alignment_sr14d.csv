@@ -1,0 +1,870 @@
+T,Tx,G,M,Ti,T->(G|Tx)_Bs,(T|G)->M_Bs,(M|G|Tx)->Ti_Bs,T->Ti_Bs,ChainInTTxTi,ChainInTGMTi,ChainInTGTi,ChainInTMTi
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_dorei,0.87,1,1,0.67,FALSE,TRUE,TRUE,TRUE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_dorei,0.87,1,1,0.12,FALSE,TRUE,TRUE,TRUE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_massiliensis,0.97,1,0.99,0.11,FALSE,TRUE,TRUE,TRUE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_dorei,0.97,1,1,0.56,FALSE,TRUE,TRUE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_massiliensis,0.99,1,0.99,1,FALSE,TRUE,TRUE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_dorei,0.99,1,1,0.74,FALSE,TRUE,TRUE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__bacteroides_dorei,0.99,1,1,0.11,FALSE,TRUE,TRUE,TRUE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb01232,s__alistipes_onderdonkii,0.1,0.18,1,1,FALSE,TRUE,TRUE,TRUE
+s__ruminococcus_torques,,g__dna helicase,m__hmdb01547,s__ruminococcaceae_bacterium_d16,0.69,0.65,0.97,0.57,FALSE,TRUE,TRUE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00296,s__parabacteroides_merdae,1,0.72,0.22,0.15,FALSE,TRUE,TRUE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00296,s__parabacteroides_merdae,1,0.72,0.22,0.25,FALSE,TRUE,TRUE,FALSE
+s__parabacteroides_unclassified,,g__nadh,m__hmdb01232,s__alistipes_onderdonkii,0.88,0.2,1,0.82,FALSE,TRUE,TRUE,FALSE
+s__odoribacter_splanchnicus,,g__rna helicase,m__hmdb01895,s__bacteroides_eggerthii,0.67,0.87,0.33,0.45,FALSE,TRUE,TRUE,FALSE
+s__klebsiella_pneumoniae,,g__l-lactate dehydrogenase,m__hmdb00715,s__klebsiella_pneumoniae,1,0.4,0.74,1,FALSE,TRUE,TRUE,FALSE
+s__coprobacillus_unclassified,,g__glycerate 3-kinase,m__hmdb00019,s__coprobacillus_unclassified,0.16,0.23,0.99,1,FALSE,TRUE,TRUE,FALSE
+s__clostridium_clostridioforme,,g__dephospho-coa kinase,m__hmdb01547,s__ruminococcaceae_bacterium_d16,1,0.92,0.97,0.24,FALSE,TRUE,TRUE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb01547,s__ruminococcaceae_bacterium_d16,1,0.65,0.97,0.93,FALSE,TRUE,TRUE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00101,s__alistipes_putredinis,0.1,0.99,0.14,0.99,FALSE,TRUE,TRUE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00296,s__parabacteroides_merdae,0.47,0.72,0.22,1,FALSE,TRUE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__coprobacillus_unclassified,0.99,0.23,0.26,0.33,FALSE,TRUE,TRUE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb01895,s__bacteroides_eggerthii,0.31,0.87,0.33,1,FALSE,TRUE,TRUE,FALSE
+s__ruminococcus_torques,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb04610,s__clostridium_asparagiforme,0.15,0.95,0.62,0.12,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__parasutterella_excrementihominis,0.43,0.28,0.22,1,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__parasutterella_excrementihominis,0.43,0.28,0.22,0.34,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__holdemania_unclassified,0.43,0.28,0.24,1,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__holdemania_unclassified,0.43,0.28,0.24,1,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,0.43,0.28,0.8,0.15,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,0.43,0.28,0.8,0.14,FALSE,TRUE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00239,s__bacteroides_eggerthii,0.43,0.2,0.26,0.71,FALSE,TRUE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00019,s__dorea_unclassified,0.25,0.1,0.19,0.19,FALSE,TRUE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb11718,s__parasutterella_excrementihominis,0.42,0.73,0.69,0.34,FALSE,TRUE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__beta-ketoacyl-acyl-carrier-protein synthase ii,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,0.68,0.48,1,1,FALSE,TRUE,FALSE,TRUE
+s__burkholderiales_bacterium_1_1_47,,g__methionyl aminopeptidase,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,0.22,0.28,0.8,1,FALSE,TRUE,FALSE,TRUE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00239,s__bacteroides_eggerthii,0.22,0.2,0.26,0.67,FALSE,TRUE,FALSE,TRUE
+s__bacteroides_xylanisolvens,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00174,s__alistipes_onderdonkii,0.36,0.85,0.99,0.86,FALSE,TRUE,FALSE,TRUE
+s__bacteroides_xylanisolvens,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00174,s__alistipes_onderdonkii,0.36,0.85,0.99,0.14,FALSE,TRUE,FALSE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,0.99,1,0.93,1,FALSE,TRUE,FALSE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,0.99,1,0.93,1,FALSE,TRUE,FALSE,TRUE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__eubacterium_ramulus,0.99,1,1,0.26,FALSE,TRUE,FALSE,TRUE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00806,s__holdemania_filiformis,0.57,0.95,1,0.21,FALSE,TRUE,FALSE,TRUE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00806,s__clostridium_symbiosum,0.57,0.95,1,0.36,FALSE,TRUE,FALSE,TRUE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00806,s__akkermansia_muciniphila,0.57,0.95,0.97,1,FALSE,TRUE,FALSE,TRUE
+s__veillonella_dispar,,g__superoxide dismutase,m__hmdb03357,s__clostridium_bartlettii,0.18,0.89,1,0.83,FALSE,TRUE,FALSE,FALSE
+s__veillonella_dispar,,g__superoxide dismutase,m__hmdb01232,s__parabacteroides_merdae,0.18,0.16,0.51,0.14,FALSE,TRUE,FALSE,FALSE
+s__veillonella_dispar,,g__superoxide dismutase,m__hmdb01232,s__clostridium_symbiosum,0.18,0.16,0.13,0.72,FALSE,TRUE,FALSE,FALSE
+s__veillonella_dispar,,g__superoxide dismutase,m__hmdb00562,s__ruminococcus_gnavus,0.18,1,0.35,0.86,FALSE,TRUE,FALSE,FALSE
+s__veillonella_dispar,,g__superoxide dismutase,m__hmdb00197,s__veillonella_dispar,0.18,0.64,0.43,1,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__histidine kinase,m__hmdb03464,s__veillonella_dispar,0.37,0.23,0.11,0.89,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__histidine kinase,m__hmdb03464,s__streptococcus_thermophilus,0.37,0.23,0.51,0.48,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__enoyl-coa hydratase,m__hmdb02123,s__dorea_unclassified,1,0.29,0.69,0.26,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__enoyl-coa hydratase,m__hmdb00873,s__ruminococcus_callidus,1,0.99,1,0.17,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__cytochrome-c oxidase,m__hmdb00139,s__veillonella_atypica,0.54,0.21,0.11,1,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__cytochrome-c oxidase,m__hmdb00036,s__faecalibacterium_prausnitzii,0.54,0.1,0.46,0.78,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__cytochrome-c oxidase,m__hmdb00036,s__faecalibacterium_prausnitzii,0.54,0.1,0.46,0.12,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__cytochrome-c oxidase,m__hmdb00036,s__eubacterium_rectale,0.54,0.1,0.38,0.78,FALSE,TRUE,FALSE,FALSE
+s__veillonella_atypica,,g__cytochrome-c oxidase,m__hmdb00036,s__clostridium_leptum,0.54,0.1,0.52,0.31,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb10169,s__coprococcus_catus,0.19,0.43,0.37,0.16,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb10169,s__coprococcus_catus,0.19,0.43,0.37,0.21,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb10169,s__bacteroides_thetaiotaomicron,0.19,0.43,0.53,1,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb00511,s__bacteroides_fragilis,0.19,0.56,0.1,0.69,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb00156,s__sutterella_wadsworthensis,0.19,0.87,0.48,1,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb00156,s__eubacterium_ventriosum,0.19,0.87,0.41,0.14,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb00019,s__veillonella_unclassified,0.19,0.11,0.17,0.72,FALSE,TRUE,FALSE,FALSE
+s__sutterella_wadsworthensis,,g__fructose-bisphosphate aldolase,m__hmdb00019,s__veillonella_parvula,0.19,0.11,0.62,0.92,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_thermophilus,,g__methionyl aminopeptidase,m__hmdb00511,s__bacteroides_fragilis,0.89,0.4,0.1,0.25,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_thermophilus,,g__methionyl aminopeptidase,m__hmdb00239,s__streptococcus_thermophilus,0.89,0.2,0.23,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_thermophilus,,g__fructose-bisphosphate aldolase,m__hmdb00019,s__clostridium_bartlettii,0.17,0.11,0.13,0.17,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_thermophilus,,g__fructose-bisphosphate aldolase,m__hmdb00019,s__clostridium_bartlettii,0.17,0.11,0.13,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__pyridoxine 5-phosphate synthase,m__hmdb00067,s__parasutterella_excrementihominis,0.97,0.13,0.1,0.42,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb02123,s__eubacterium_hallii,0.12,0.22,0.1,0.21,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00452,s__bacteroides_caccae,0.12,0.59,0.2,0.1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00101,s__lachnospiraceae_bacterium_8_1_57faa,0.12,0.67,0.74,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00094,s__streptococcus_salivarius,0.12,0.31,0.88,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00056,s__ruminococcus_bromii,0.12,0.33,0.99,0.46,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00036,s__clostridium_leptum,0.12,0.15,0.52,0.12,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_salivarius,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00036,s__clostridium_leptum,0.12,0.15,0.52,0.13,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__rna helicase,m__hmdb02322,s__pseudomonas_unclassified,1,0.2,0.56,0.95,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__rna helicase,m__hmdb02322,s__pseudomonas_unclassified,1,0.2,0.56,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__nadh,m__hmdb01232,s__prevotella_copri,0.55,0.2,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__nadh,m__hmdb01232,s__prevotella_copri,0.55,0.2,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb03464,s__klebsiella_pneumoniae,0.34,0.25,0.25,1,FALSE,TRUE,FALSE,FALSE
+s__streptococcus_parasanguinis,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb03464,s__klebsiella_pneumoniae,0.34,0.25,0.25,0.99,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_torques,,g__dna helicase,m__hmdb01547,s__parasutterella_excrementihominis,0.69,0.65,0.17,0.1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_torques,,g__dna helicase,m__hmdb00063,s__alistipes_finegoldii,0.69,0.3,0.96,0.18,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_torques,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00094,s__ruminococcus_torques,0.15,0.31,0.56,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb01232,s__eggerthella_unclassified,0.72,0.16,0.17,0.79,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00197,s__odoribacter_splanchnicus,0.72,0.64,0.39,0.33,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00139,s__ruminococcus_obeum,0.72,0.13,0.46,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00139,s__ruminococcus_lactaris,0.72,0.13,0.94,0.87,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00139,s__clostridium_bolteae,0.72,0.13,0.92,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00138,s__roseburia_hominis,0.72,0.78,0.49,0.97,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00138,s__lachnospiraceae_bacterium_3_1_57faa_ct1,0.72,0.78,0.88,0.95,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00138,s__anaerotruncus_colihominis,0.72,0.78,0.97,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00138,s__anaerotruncus_colihominis,0.72,0.78,0.97,0.78,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00128,s__alistipes_shahii,0.72,0.25,0.51,0.15,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,m__hmdb00118,s__coprococcus_comes,0.72,0.19,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__bacterial non-heme ferritin,m__hmdb02123,s__oscillibacter_unclassified,0.31,0.45,0.2,0.77,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_obeum,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__clostridiaceae_bacterium_jc118,0.91,0.83,0.46,0.97,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00289,s__streptococcus_salivarius,0.19,0.2,0.98,0.28,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00139,s__ruminococcus_obeum,0.19,0.19,0.46,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00139,s__ruminococcus_obeum,0.19,0.19,0.46,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00139,s__ruminococcus_lactaris,0.19,0.19,0.94,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00139,s__flavonifractor_plautii,0.19,0.19,0.23,0.38,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_lactaris,,g__bacterial non-heme ferritin,m__hmdb00118,s__clostridium_asparagiforme,0.19,0.21,0.98,0.81,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_gnavus,,g__glutamate dehydrogenase nadp+,m__hmdb00094,s__bacteroides_fragilis,0.19,0.95,0.14,0.32,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_gnavus,,g__glutamate dehydrogenase nadp+,m__hmdb00019,s__ruminococcus_gnavus,0.19,0.15,0.22,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_gnavus,,g__glutamate dehydrogenase nadp+,m__hmdb00019,s__roseburia_intestinalis,0.19,0.15,0.14,0.73,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_gnavus,,g__glutamate dehydrogenase nadp+,m__hmdb00019,s__roseburia_intestinalis,0.19,0.15,0.14,0.14,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb00128,s__anaerotruncus_unclassified,0.96,0.22,0.11,0.99,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb02322,s__propionibacterium_acnes,1,0.24,1,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb02322,s__propionibacterium_acnes,1,0.24,1,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb02322,s__c2likevirus_unclassified,1,0.24,1,0.21,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb02123,s__anaerostipes_hadrus,1,0.45,0.26,0.7,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb02123,s__anaerostipes_hadrus,1,0.45,0.26,0.29,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00699,s__ruminococcus_callidus,1,1,0.28,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00289,s__clostridium_leptum,1,0.2,0.24,0.14,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00289,s__clostridium_leptum,1,0.2,0.24,0.14,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00139,s__lachnospiraceae_bacterium_8_1_57faa,1,0.19,0.33,0.18,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00139,s__faecalibacterium_prausnitzii,1,0.19,0.15,0.89,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,m__hmdb00139,s__faecalibacterium_prausnitzii,1,0.19,0.15,0.1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_bromii,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb02322,s__c2likevirus_unclassified,0.72,0.15,1,0.89,FALSE,TRUE,FALSE,FALSE
+s__ruminococcus_bromii,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb00764,s__parasutterella_excrementihominis,0.72,0.64,0.55,0.3,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00806,s__veillonella_unclassified,0.43,0.95,0.55,0.28,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00806,s__clostridium_symbiosum,0.43,0.95,1,0.4,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00806,s__akkermansia_muciniphila,0.43,0.95,0.97,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00806,s__akkermansia_muciniphila,0.43,0.95,0.97,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00511,s__ruminococcaceae_bacterium_d16,0.43,0.4,0.11,1,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__methionyl aminopeptidase,m__hmdb00511,s__coprobacillus_unclassified,0.43,0.4,0.26,0.64,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__glutamate dehydrogenase,m__hmdb00452,s__lachnospiraceae_bacterium_1_1_57faa,0.57,0.22,0.7,0.2,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__glutamate dehydrogenase,m__hmdb00138,s__clostridium_hathewayi,0.57,0.26,0.94,0.89,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__dna-directed rna polymerase,m__hmdb11718,s__dorea_longicatena,0.53,0.73,0.11,0.29,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__dna-directed rna polymerase,m__hmdb11718,s__dorea_longicatena,0.53,0.73,0.11,0.41,FALSE,TRUE,FALSE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__dna-directed rna polymerase,m__hmdb11718,s__alistipes_finegoldii,0.53,0.73,0.89,0.13,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__preq1 synthase,m__hmdb00043,s__akkermansia_muciniphila,0.1,0.29,0.1,0.97,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__glycerol kinase,m__hmdb00630,s__ruminococcus_bromii,0.14,0.22,0.73,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__glycerol kinase,m__hmdb00626,s__holdemania_filiformis,0.14,0.72,0.26,0.19,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__glycerol kinase,m__hmdb00452,s__eubacterium_rectale,0.14,0.41,0.14,0.16,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__glycerol kinase,m__hmdb00197,s__faecalibacterium_prausnitzii,0.14,0.34,0.32,0.11,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb02329,s__ruminococcus_callidus,0.19,0.11,0.99,0.59,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb02329,s__propionibacterium_acnes,0.19,0.11,1,0.87,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb00511,s__roseburia_inulinivorans,0.19,0.56,0.25,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb00511,s__dialister_invisus,0.19,0.56,0.35,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb00511,s__dialister_invisus,0.19,0.56,0.35,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_inulinivorans,,g__fructose-bisphosphate aldolase,m__hmdb00511,s__bacteroides_fragilis,0.19,0.56,0.1,0.64,FALSE,TRUE,FALSE,FALSE
+s__roseburia_intestinalis,,g__pyridoxal 5-phosphate synthase,m__hmdb00637,s__sutterella_wadsworthensis,0.99,0.75,0.18,0.12,FALSE,TRUE,FALSE,FALSE
+s__roseburia_intestinalis,,g__pyridoxal 5-phosphate synthase,m__hmdb00637,s__sutterella_wadsworthensis,0.99,0.75,0.18,0.75,FALSE,TRUE,FALSE,FALSE
+s__roseburia_intestinalis,,g__pyridoxal 5-phosphate synthase,m__hmdb00626,s__bacteroides_thetaiotaomicron,0.99,0.1,0.95,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_intestinalis,,g__pyridoxal 5-phosphate synthase,m__hmdb00619,s__roseburia_intestinalis,0.99,0.54,0.16,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_intestinalis,,g__pyridoxal 5-phosphate synthase,m__hmdb00452,s__ruminococcus_gnavus,0.99,0.59,0.31,0.86,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00873,s__roseburia_intestinalis,0.72,0.43,0.19,0.15,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00715,s__roseburia_hominis,0.5,0.89,0.89,1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00699,s__eubacterium_ventriosum,0.5,1,0.45,0.16,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00289,s__ruminococcus_bromii,0.5,0.2,0.25,0.1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00289,s__eubacterium_eligens,0.5,0.2,0.17,0.1,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00089,s__bacteroides_stercoris,0.5,0.28,0.5,0.36,FALSE,TRUE,FALSE,FALSE
+s__roseburia_hominis,,g__bacterial non-heme ferritin,m__hmdb00089,s__bacteroides_stercoris,0.5,0.28,0.5,0.13,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__nadh,m__hmdb01232,s__dorea_longicatena,0.16,0.2,0.92,0.1,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__nadh,m__hmdb00039,s__clostridium_leptum,0.16,0.61,0.24,0.33,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__nadh,m__hmdb00039,s__clostridium_leptum,0.16,0.61,0.24,0.62,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__nadh,m__hmdb00014,s__ruminococcus_obeum,0.16,0.7,0.15,0.97,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,m__hmdb00067,s__streptococcus_parasanguinis,1,0.6,0.2,1,FALSE,TRUE,FALSE,FALSE
+s__pseudomonas_unclassified,,g__4-cytidine 5-diphospho-2-c-methyl-d-erythritol kinase,m__hmdb00067,s__pseudomonas_unclassified,1,0.6,0.88,1,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__shikimate kinase,m__hmdb10169,s__mitsuokella_unclassified,0.95,0.19,0.36,0.16,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__shikimate kinase,m__hmdb00239,s__veillonella_atypica,0.95,0.32,0.48,0.14,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__shikimate kinase,m__hmdb00239,s__veillonella_atypica,0.95,0.32,0.48,0.77,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb02123,s__eubacterium_hallii,0.44,0.48,0.1,0.31,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb02123,s__anaerostipes_hadrus,0.44,0.48,0.26,0.23,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb02123,s__anaerostipes_hadrus,0.44,0.48,0.26,0.24,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb01232,s__parabacteroides_merdae,0.44,0.18,0.51,0.55,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb00197,s__c2likevirus_unclassified,0.44,0.29,0.62,0.27,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb00128,s__propionibacterium_acnes,0.44,0.12,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__peptidylprolyl isomerase,m__hmdb00128,s__anaerotruncus_unclassified,0.44,0.12,0.11,0.89,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00094,s__streptococcus_salivarius,0.51,0.31,0.88,0.54,FALSE,TRUE,FALSE,FALSE
+s__propionibacterium_acnes,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00094,s__streptococcus_salivarius,0.51,0.31,0.88,0.45,FALSE,TRUE,FALSE,FALSE
+s__prevotella_copri,,g__nadh,m__hmdb01232,s__prevotella_copri,0.19,0.2,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__prevotella_copri,,g__methionyl aminopeptidase,m__hmdb00067,s__streptococcus_parasanguinis,0.22,0.18,0.2,1,FALSE,TRUE,FALSE,FALSE
+s__peptostreptococcaceae_noname_unclassified,,g__l-lactate dehydrogenase,m__hmdb00715,s__escherichia_unclassified,0.4,0.4,0.31,1,FALSE,TRUE,FALSE,FALSE
+s__peptostreptococcaceae_noname_unclassified,,g__l-lactate dehydrogenase,m__hmdb00715,s__escherichia_unclassified,0.4,0.4,0.31,0.12,FALSE,TRUE,FALSE,FALSE
+s__peptostreptococcaceae_noname_unclassified,,g__l-lactate dehydrogenase,m__hmdb00699,s__bifidobacterium_adolescentis,0.4,0.18,0.13,0.81,FALSE,TRUE,FALSE,FALSE
+s__peptostreptococcaceae_noname_unclassified,,g__l-lactate dehydrogenase,m__hmdb00036,s__escherichia_coli,0.4,0.39,0.21,0.76,FALSE,TRUE,FALSE,FALSE
+s__parasutterella_excrementihominis,,g__phosphopyruvate hydratase,m__hmdb00873,s__bacteroides_massiliensis,0.18,0.86,0.54,0.71,FALSE,TRUE,FALSE,FALSE
+s__parasutterella_excrementihominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__parasutterella_excrementihominis,0.26,0.57,0.55,1,FALSE,TRUE,FALSE,FALSE
+s__parasutterella_excrementihominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.26,0.57,0.12,0.15,FALSE,TRUE,FALSE,FALSE
+s__parasutterella_excrementihominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__ruminococcaceae_bacterium_d16,0.26,0.23,0.11,0.15,FALSE,TRUE,FALSE,FALSE
+s__parasutterella_excrementihominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__ruminococcaceae_bacterium_d16,0.26,0.23,0.11,0.56,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__serine o-acetyltransferase,m__hmdb00806,s__parabacteroides_unclassified,0.17,0.85,0.73,1,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__serine o-acetyltransferase,m__hmdb00806,s__dialister_invisus,0.17,0.85,0.12,0.66,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__serine o-acetyltransferase,m__hmdb00036,s__clostridium_leptum,0.17,0.11,0.52,0.12,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__methylaspartate mutase,m__hmdb00482,s__ruminococcaceae_bacterium_d16,0.99,0.21,0.83,0.43,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__endopeptidase clp,m__hmdb00764,s__bacteroides_vulgatus,0.5,0.35,0.42,0.73,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__endopeptidase clp,m__hmdb00019,s__escherichia_unclassified,0.5,0.14,0.62,0.38,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_unclassified,,g__dihydroorotate dehydrogenase quinone,m__hmdb00715,s__klebsiella_pneumoniae,0.58,0.93,0.74,0.96,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb01232,s__parabacteroides_merdae,0.98,0.16,0.51,1,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00197,s__bacteroides_uniformis,0.98,0.64,0.19,1,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00197,s__bacteroides_uniformis,0.98,0.64,0.19,1,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00138,s__veillonella_atypica,0.98,0.78,0.11,0.97,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00138,s__veillonella_atypica,0.98,0.78,0.11,0.88,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00063,s__parasutterella_excrementihominis,0.98,0.99,0.91,0.13,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__superoxide dismutase,m__hmdb00063,s__eubacterium_hallii,0.98,0.99,0.15,0.39,FALSE,TRUE,FALSE,FALSE
+s__parabacteroides_merdae,,g__bacterial non-heme ferritin,m__hmdb00699,s__escherichia_coli,0.41,1,0.12,0.15,FALSE,TRUE,FALSE,FALSE
+s__oscillibacter_unclassified,,g__phosphopyruvate hydratase,m__hmdb01991,s__anaerotruncus_unclassified,0.28,0.1,0.84,0.56,FALSE,TRUE,FALSE,FALSE
+s__oscillibacter_unclassified,,g__methionyl aminopeptidase,m__hmdb00626,s__subdoligranulum_unclassified,0.17,0.28,0.19,0.16,FALSE,TRUE,FALSE,FALSE
+s__oscillibacter_unclassified,,g__methionyl aminopeptidase,m__hmdb00239,s__oscillibacter_unclassified,0.17,0.2,0.7,1,FALSE,TRUE,FALSE,FALSE
+s__oscillibacter_unclassified,,g__methionyl aminopeptidase,m__hmdb00239,s__bacteroides_uniformis,0.17,0.2,0.28,0.97,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb01991,s__bacteroides_caccae,0.68,0.87,0.25,0.69,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb01991,s__anaerotruncus_unclassified,0.68,0.87,0.84,0.11,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb00197,s__odoribacter_splanchnicus,0.68,0.64,0.39,1,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb00139,s__ruminococcus_lactaris,0.68,0.13,0.94,0.25,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb00139,s__ruminococcus_lactaris,0.68,0.13,0.94,0.88,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb00139,s__clostridium_bolteae,0.68,0.13,0.92,1,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__superoxide dismutase,m__hmdb00139,s__alistipes_putredinis,0.68,0.13,0.89,0.99,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__rna helicase,m__hmdb01895,s__clostridium_asparagiforme,0.67,0.87,0.41,0.28,FALSE,TRUE,FALSE,FALSE
+s__odoribacter_splanchnicus,,g__rna helicase,m__hmdb00118,s__lachnospiraceae_bacterium_2_1_58faa,0.67,0.71,0.89,0.58,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb01991,s__bacteroides_xylanisolvens,0.11,0.1,0.4,0.14,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00873,s__streptococcus_salivarius,0.11,0.86,0.6,0.23,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00873,s__ruminococcus_callidus,0.11,0.86,1,0.21,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00873,s__propionibacterium_acnes,0.11,0.86,0.97,0.13,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00873,s__mitsuokella_unclassified,0.11,0.86,1,1,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00725,s__veillonella_dispar,0.11,0.14,0.24,0.67,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphopyruvate hydratase,m__hmdb00630,s__ruminococcus_bromii,0.11,0.18,0.73,0.14,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__bacteroides_ovatus,0.22,0.19,0.31,0.19,FALSE,TRUE,FALSE,FALSE
+s__mitsuokella_unclassified,,g__glycerol kinase,m__hmdb00098,s__roseburia_unclassified,0.3,0.76,0.21,0.16,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00764,s__oscillibacter_unclassified,1,0.14,0.22,0.37,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00619,s__lachnospiraceae_bacterium_8_1_57faa,1,0.54,0.19,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00448,s__lachnospiraceae_bacterium_7_1_58faa,1,0.43,0.38,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00448,s__lachnospiraceae_bacterium_7_1_58faa,1,0.43,0.38,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00056,s__ruminococcus_bromii,1,1,0.99,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00039,s__streptococcus_salivarius,1,0.21,0.47,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__pyridoxal 5-phosphate synthase,m__hmdb00039,s__clostridium_leptum,1,0.21,0.24,0.71,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__transaldolase,m__hmdb00128,s__erysipelotrichaceae_bacterium_6_1_45,0.12,1,0.9,0.21,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__preq1 synthase,m__hmdb02123,s__bacteroides_dorei,0.36,0.46,1,0.47,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__preq1 synthase,m__hmdb02123,s__bacteroides_dorei,0.36,0.46,1,0.11,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__roseburia_hominis,0.44,0.19,0.1,0.99,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__roseburia_hominis,0.44,0.19,0.1,0.99,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__eubacterium_eligens,0.44,0.19,0.24,0.59,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00452,s__lachnospiraceae_bacterium_1_1_57faa,0.44,0.39,0.7,0.67,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00097,s__lachnospiraceae_bacterium_5_1_63faa,0.44,0.48,0.83,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00097,s__eubacterium_ramulus,0.44,0.48,0.29,0.67,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00097,s__eubacterium_ramulus,0.44,0.48,0.29,0.64,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__nadh dehydrogenase quinone,m__hmdb00014,s__eubacterium_ventriosum,1,0.7,0.46,0.15,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__acetyl-coa c-acetyltransferase,m__hmdb04610,s__mitsuokella_unclassified,0.41,0.27,0.98,0.44,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__acetyl-coa c-acetyltransferase,m__hmdb00269,s__barnesiella_intestinihominis,0.41,0.78,0.1,0.21,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__acetyl-coa c-acetyltransferase,m__hmdb00269,s__barnesiella_intestinihominis,0.41,0.78,0.1,0.77,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__acetyl-coa c-acetyltransferase,m__hmdb00244,s__dorea_longicatena,0.41,0.88,0.91,0.39,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__acetyl-coa c-acetyltransferase,m__hmdb00244,s__dorea_longicatena,0.41,0.88,0.91,0.39,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__3-hydroxybutyryl-coa dehydrogenase,m__hmdb00262,s__bacteroides_massiliensis,0.87,0.99,0.96,0.89,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_57faa_ct1,,g__phosphatidate cytidylyltransferase,m__hmdb00870,s__alistipes_finegoldii,0.54,0.47,0.92,0.11,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00812,s__collinsella_aerofaciens,0.25,0.22,0.36,0.87,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00630,s__ruminococcus_bromii,0.25,0.38,0.73,0.78,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__eubacterium_eligens,0.25,0.19,0.24,0.12,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00619,s__bilophila_unclassified,0.25,0.19,0.78,0.72,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00452,s__eubacterium_siraeum,0.25,0.39,0.25,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00452,s__alistipes_shahii,0.25,0.39,0.1,0.89,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00452,s__alistipes_shahii,0.25,0.39,0.1,0.59,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__phosphoenolpyruvate carboxykinase atp,m__hmdb00118,s__clostridium_asparagiforme,0.25,0.53,0.98,0.74,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__subdoligranulum_unclassified,0.42,0.1,1,0.83,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__subdoligranulum_unclassified,0.42,0.1,1,0.86,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__parabacteroides_distasonis,0.42,0.1,0.25,0.35,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__dorea_formicigenerans,0.42,0.1,1,0.77,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__barnesiella_intestinihominis,0.42,0.1,0.89,0.9,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__barnesiella_intestinihominis,0.42,0.1,0.89,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__bacteroides_thetaiotaomicron,0.42,0.1,1,0.18,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_3_1_46faa,,g__dna-directed rna polymerase,m__hmdb00365,s__bacteroides_cellulosilyticus,0.42,0.1,1,0.41,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__transaldolase,m__hmdb00699,s__bacteroides_cellulosilyticus,0.14,1,0.75,0.83,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb04193,s__clostridiales_bacterium_1_7_47faa,0.28,0.86,0.28,0.93,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb01991,s__lachnospiraceae_bacterium_3_1_57faa_ct1,0.28,0.1,0.95,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb01991,s__lachnospiraceae_bacterium_3_1_57faa_ct1,0.28,0.1,0.95,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb01232,s__clostridium_clostridioforme,0.28,0.38,0.13,0.19,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb01149,s__collinsella_aerofaciens,0.28,0.54,0.31,0.2,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00873,s__clostridium_leptum,0.28,0.86,0.68,0.19,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00873,s__bilophila_unclassified,0.28,0.86,0.69,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00873,s__bilophila_unclassified,0.28,0.86,0.69,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00244,s__clostridium_hathewayi,0.28,0.84,0.8,0.99,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00244,s__clostridium_hathewayi,0.28,0.84,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00244,s__anaerotruncus_colihominis,0.28,0.84,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00244,s__anaerotruncus_colihominis,0.28,0.84,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00194,s__bilophila_wadsworthia,0.28,1,0.21,0.97,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00194,s__bilophila_wadsworthia,0.28,1,0.21,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00139,s__ruminococcus_obeum,0.28,0.12,0.46,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00139,s__lachnospiraceae_bacterium_8_1_57faa,0.28,0.12,0.33,0.82,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00139,s__lachnospiraceae_bacterium_8_1_57faa,0.28,0.12,0.33,0.82,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00014,s__lachnospiraceae_bacterium_2_1_58faa,0.28,0.3,0.69,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00014,s__bacteroides_caccae,0.28,0.3,0.28,1,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__phosphopyruvate hydratase,m__hmdb00014,s__bacteroides_caccae,0.28,0.3,0.28,0.82,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__clostridiaceae_bacterium_jc118,0.99,0.83,0.46,0.99,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__clostridiaceae_bacterium_jc118,0.99,0.83,0.46,0.94,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00101,s__oscillibacter_unclassified,0.99,0.99,0.16,0.67,FALSE,TRUE,FALSE,FALSE
+s__lachnospiraceae_bacterium_2_1_58faa,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00101,s__oscillibacter_unclassified,0.99,0.99,0.16,0.18,FALSE,TRUE,FALSE,FALSE
+s__klebsiella_pneumoniae,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb02322,s__pseudomonas_unclassified,1,0.15,0.56,1,FALSE,TRUE,FALSE,FALSE
+s__klebsiella_pneumoniae,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb02322,s__pseudomonas_unclassified,1,0.15,0.56,0.95,FALSE,TRUE,FALSE,FALSE
+s__klebsiella_pneumoniae,,g__protein-npi-phosphohistidine--sugar phosphotransferase,m__hmdb01232,s__parabacteroides_unclassified,1,0.67,0.64,0.58,FALSE,TRUE,FALSE,FALSE
+s__holdemania_unclassified,,g__preq1 synthase,m__hmdb00482,s__lachnospiraceae_bacterium_2_1_58faa,0.6,0.58,0.21,0.2,FALSE,TRUE,FALSE,FALSE
+s__holdemania_unclassified,,g__dna helicase,m__hmdb01547,s__holdemania_unclassified,0.13,0.65,0.52,1,FALSE,TRUE,FALSE,FALSE
+s__holdemania_filiformis,,g__bacterial non-heme ferritin,m__hmdb02123,s__veillonella_dispar,0.25,0.45,0.11,0.11,FALSE,TRUE,FALSE,FALSE
+s__holdemania_filiformis,,g__bacterial non-heme ferritin,m__hmdb02123,s__veillonella_dispar,0.25,0.45,0.11,0.11,FALSE,TRUE,FALSE,FALSE
+s__holdemania_filiformis,,g__bacterial non-heme ferritin,m__hmdb00715,s__escherichia_unclassified,0.25,0.89,0.31,0.59,FALSE,TRUE,FALSE,FALSE
+s__holdemania_filiformis,,g__bacterial non-heme ferritin,m__hmdb00089,s__holdemania_filiformis,0.25,0.28,0.16,1,FALSE,TRUE,FALSE,FALSE
+s__flavonifractor_plautii,,g__cytochrome-c oxidase,m__hmdb00139,s__flavonifractor_plautii,0.19,0.21,0.23,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb04610,s__lachnospiraceae_bacterium_5_1_63faa,0.84,0.27,0.47,0.66,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb04610,s__lachnospiraceae_bacterium_5_1_63faa,0.84,0.27,0.47,0.94,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00619,s__dorea_formicigenerans,0.84,0.6,1,0.11,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00619,s__bacteroides_vulgatus,0.84,0.6,0.26,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00296,s__coprococcus_catus,0.84,0.22,0.22,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00244,s__eubacterium_ventriosum,0.84,0.88,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00244,s__dorea_longicatena,0.84,0.88,0.91,0.81,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00139,s__eubacterium_ramulus,0.84,0.36,0.12,0.3,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00014,s__bacteroides_stercoris,0.84,0.24,0.15,0.19,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00014,s__bacteroides_stercoris,0.84,0.24,0.15,0.33,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ventriosum,,g__acetyl-coa c-acetyltransferase,m__hmdb00014,s__anaerostipes_hadrus,0.84,0.24,0.14,0.14,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__phosphoglycerate kinase,m__hmdb02329,s__propionibacterium_acnes,0.87,0.57,1,0.83,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__phosphoglycerate kinase,m__hmdb00511,s__mitsuokella_unclassified,0.87,0.19,0.43,0.35,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__phosphoglycerate kinase,m__hmdb00039,s__eubacterium_siraeum,0.87,0.3,0.42,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__subdoligranulum_unclassified,0.14,0.1,1,0.1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__parabacteroides_distasonis,0.14,0.1,0.25,0.46,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__parabacteroides_distasonis,0.14,0.1,0.25,0.5,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__bacteroides_vulgatus,0.14,0.1,1,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__bacteroides_vulgatus,0.14,0.1,1,0.83,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__dna-directed rna polymerase,m__hmdb00365,s__bacteroides_cellulosilyticus,0.14,0.1,1,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_siraeum,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,0.7,0.57,1,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_rectale,,g__serine o-acetyltransferase,m__hmdb00036,s__eubacterium_rectale,0.8,0.11,0.38,1,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_rectale,,g__serine o-acetyltransferase,m__hmdb00036,s__escherichia_coli,0.8,0.11,0.21,0.5,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_rectale,,g__serine o-acetyltransferase,m__hmdb00036,s__clostridium_leptum,0.8,0.11,0.52,0.28,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_rectale,,g__peroxiredoxin,m__hmdb00094,s__streptococcus_salivarius,0.1,0.91,0.88,0.3,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_rectale,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb00247,s__c2likevirus_unclassified,0.6,0.32,0.93,0.14,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ramulus,,g__pyridoxal 5-phosphate synthase glutamine hydrolyzing,m__hmdb00764,s__eubacterium_ventriosum,0.22,0.14,0.2,0.9,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_ramulus,,g__pyridoxal 5-phosphate synthase glutamine hydrolyzing,m__hmdb00764,s__bacteroides_faecis,0.22,0.14,0.25,0.96,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_eligens,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,m__hmdb01232,s__parabacteroides_unclassified,0.28,0.23,0.64,0.17,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_eligens,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,m__hmdb00097,s__bacteroides_eggerthii,0.28,0.33,0.31,0.32,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_eligens,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,m__hmdb00067,s__clostridium_clostridioforme,0.28,0.22,0.2,0.12,FALSE,TRUE,FALSE,FALSE
+s__eubacterium_eligens,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,m__hmdb00067,s__clostridium_clostridioforme,0.28,0.22,0.2,0.32,FALSE,TRUE,FALSE,FALSE
+s__eggerthella_unclassified,,g__glutamate dehydrogenase,m__hmdb01232,s__eggerthella_unclassified,0.74,0.69,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__eggerthella_unclassified,,g__glutamate dehydrogenase,m__hmdb00806,s__clostridium_clostridioforme,0.74,1,1,0.1,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00806,s__eubacterium_siraeum,0.11,0.95,0.94,0.12,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00806,s__dorea_unclassified,0.11,0.95,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00511,s__bacteroides_xylanisolvens,0.11,0.4,0.49,0.17,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00511,s__bacteroides_xylanisolvens,0.11,0.4,0.49,0.14,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00239,s__alistipes_putredinis,0.11,0.2,0.14,0.1,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00239,s__alistipes_putredinis,0.11,0.2,0.14,0.82,FALSE,TRUE,FALSE,FALSE
+s__dorea_unclassified,,g__methionyl aminopeptidase,m__hmdb00020,s__eubacterium_eligens,0.11,0.9,0.74,0.32,FALSE,TRUE,FALSE,FALSE
+s__dorea_longicatena,,g__ribulose-phosphate 3-epimerase,m__hmdb03464,s__eubacterium_siraeum,0.94,0.75,0.25,0.1,FALSE,TRUE,FALSE,FALSE
+s__dorea_longicatena,,g__ribulose-phosphate 3-epimerase,m__hmdb03464,s__eubacterium_siraeum,0.94,0.75,0.25,0.13,FALSE,TRUE,FALSE,FALSE
+s__dorea_longicatena,,g__ribulose-phosphate 3-epimerase,m__hmdb01232,s__dorea_longicatena,0.94,0.15,0.92,1,FALSE,TRUE,FALSE,FALSE
+s__dorea_formicigenerans,,g__triose-phosphate isomerase,m__hmdb11718,s__alistipes_finegoldii,0.38,0.61,0.89,0.11,FALSE,TRUE,FALSE,FALSE
+s__dorea_formicigenerans,,g__rna helicase,m__hmdb00118,s__ruminococcus_torques,0.15,0.71,0.8,0.81,FALSE,TRUE,FALSE,FALSE
+s__dorea_formicigenerans,,g__rna helicase,m__hmdb00118,s__ruminococcus_torques,0.15,0.71,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__dorea_formicigenerans,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb02123,s__dorea_formicigenerans,0.46,0.22,1,1,FALSE,TRUE,FALSE,FALSE
+s__dorea_formicigenerans,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00764,s__eubacterium_ventriosum,0.54,0.31,0.2,0.14,FALSE,TRUE,FALSE,FALSE
+s__dialister_invisus,,g__phosphopyruvate hydratase,m__hmdb01149,s__dorea_unclassified,1,0.54,0.26,0.39,FALSE,TRUE,FALSE,FALSE
+s__dialister_invisus,,g__phosphopyruvate hydratase,m__hmdb00873,s__dialister_invisus,1,0.86,0.99,1,FALSE,TRUE,FALSE,FALSE
+s__dialister_invisus,,g__glycerol kinase,m__hmdb11718,s__coprococcus_catus,0.13,0.85,0.23,0.46,FALSE,TRUE,FALSE,FALSE
+s__dialister_invisus,,g__glycerol kinase,m__hmdb00511,s__ruminococcaceae_bacterium_d16,0.13,0.37,0.11,0.29,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb02329,s__bilophila_wadsworthia,0.15,0.49,0.35,0.92,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00806,s__anaerotruncus_colihominis,0.15,1,0.13,0.22,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00626,s__subdoligranulum_unclassified,0.15,0.12,0.19,0.58,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00626,s__parasutterella_excrementihominis,0.15,0.12,0.22,0.25,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00626,s__bilophila_unclassified,0.15,0.12,0.85,0.3,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00626,s__bilophila_unclassified,0.15,0.12,0.85,0.7,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00626,s__alistipes_shahii,0.15,0.12,0.56,0.18,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00036,s__alistipes_putredinis,0.15,0.16,0.72,0.34,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_comes,,g__glutamate dehydrogenase,m__hmdb00019,s__coprococcus_comes,0.15,0.15,0.15,1,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__coprococcus_catus,0.87,1,1,1,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__clostridium_citroniae,0.87,1,0.55,0.33,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__oscillibacter_unclassified,0.87,0.57,0.22,0.88,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.87,0.57,0.12,0.37,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.87,0.57,0.12,0.56,FALSE,TRUE,FALSE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__dialister_invisus,0.87,0.23,0.35,0.27,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb01149,s__collinsella_aerofaciens,0.34,0.33,0.31,1,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb00956,s__bacteroides_eggerthii,0.34,1,0.17,0.13,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb00956,s__bacteroides_eggerthii,0.34,1,0.17,0.14,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb00806,s__veillonella_atypica,0.34,1,0.12,0.71,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb00806,s__veillonella_atypica,0.34,1,0.12,0.18,FALSE,TRUE,FALSE,FALSE
+s__collinsella_aerofaciens,,g__glutamate dehydrogenase,m__hmdb00806,s__flavonifractor_plautii,0.34,1,0.19,0.4,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__transaldolase,m__hmdb02329,s__roseburia_intestinalis,0.18,0.53,0.67,0.42,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb02322,s__sutterella_wadsworthensis,0.12,0.24,0.51,0.38,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb02123,s__parabacteroides_unclassified,0.12,0.45,0.76,0.23,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00699,s__bifidobacterium_adolescentis,0.12,1,0.13,0.42,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00289,s__eubacterium_eligens,0.12,0.2,0.17,0.23,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00139,s__flavonifractor_plautii,0.12,0.19,0.23,0.95,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00139,s__flavonifractor_plautii,0.12,0.19,0.23,0.95,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__roseburia_unclassified,0.12,0.28,0.98,0.96,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__coprobacillus_unclassified,0.12,0.28,0.18,0.64,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__coprobacillus_unclassified,0.12,0.28,0.18,0.64,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__clostridium_symbiosum,0.12,0.28,0.22,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__clostridium_clostridioforme,0.12,0.28,0.79,0.9,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__clostridiales_bacterium_1_7_47faa,0.12,0.28,0.54,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_symbiosum,,g__bacterial non-heme ferritin,m__hmdb00089,s__clostridiales_bacterium_1_7_47faa,0.12,0.28,0.54,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_leptum,,g__nadh,m__hmdb01232,s__anaerostipes_hadrus,0.86,0.2,0.67,0.12,FALSE,TRUE,FALSE,FALSE
+s__clostridium_leptum,,g__nadh,m__hmdb00812,s__haemophilus_parainfluenzae,0.86,0.32,0.25,0.27,FALSE,TRUE,FALSE,FALSE
+s__clostridium_leptum,,g__nadh,m__hmdb00039,s__streptococcus_salivarius,0.86,0.61,0.47,0.12,FALSE,TRUE,FALSE,FALSE
+s__clostridium_leptum,,g__nadh,m__hmdb00039,s__clostridium_leptum,0.86,0.61,0.24,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_hathewayi,,g__phosphopyruvate hydratase,m__hmdb01149,s__dorea_unclassified,0.7,0.54,0.26,0.24,FALSE,TRUE,FALSE,FALSE
+s__clostridium_hathewayi,,g__phosphopyruvate hydratase,m__hmdb00873,s__parabacteroides_merdae,0.7,0.86,0.99,0.8,FALSE,TRUE,FALSE,FALSE
+s__clostridium_hathewayi,,g__phosphopyruvate hydratase,m__hmdb00873,s__bacteroides_finegoldii,0.7,0.86,0.23,0.52,FALSE,TRUE,FALSE,FALSE
+s__clostridium_hathewayi,,g__phosphopyruvate hydratase,m__hmdb00244,s__clostridium_hathewayi,0.7,0.84,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00209,s__holdemania_filiformis,0.47,0.17,0.32,0.2,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00209,s__clostridiales_bacterium_1_7_47faa,0.47,0.17,0.1,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__roseburia_unclassified,0.47,0.42,0.98,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__roseburia_unclassified,0.47,0.42,0.98,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__eubacterium_eligens,0.47,0.42,0.25,0.32,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__eubacterium_eligens,0.47,0.42,0.25,0.68,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__coprobacillus_unclassified,0.47,0.42,0.18,0.36,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__clostridium_symbiosum,0.47,0.42,0.22,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__uridine kinase,m__hmdb00089,s__clostridium_clostridioforme,0.47,0.42,0.79,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb00870,s__bilophila_wadsworthia,0.16,0.93,0.23,0.82,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb00247,s__veillonella_dispar,0.16,0.32,0.41,0.21,FALSE,TRUE,FALSE,FALSE
+s__clostridium_clostridioforme,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb00097,s__bacteroides_eggerthii,0.16,0.47,0.31,0.31,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__l-serine ammonia-lyase,m__hmdb00619,s__veillonella_unclassified,0.98,0.17,0.28,0.16,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__l-serine ammonia-lyase,m__hmdb00089,s__clostridium_symbiosum,0.98,0.3,0.22,0.27,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb02123,s__clostridium_citroniae,1,1,0.55,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb01547,s__parasutterella_excrementihominis,1,0.65,0.17,0.11,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb00239,s__coprobacillus_unclassified,1,0.1,0.11,0.34,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb00239,s__bacteroides_eggerthii,1,0.1,0.26,0.17,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb00063,s__burkholderiales_bacterium_1_1_47,1,0.3,0.87,0.21,FALSE,TRUE,FALSE,FALSE
+s__clostridium_citroniae,,g__dna helicase,m__hmdb00063,s__bacteroides_caccae,1,0.3,0.13,0.13,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb01991,s__bacteroides_caccae,0.27,0.87,0.25,0.82,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00139,s__ruminococcus_lactaris,0.27,0.13,0.94,0.34,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00139,s__clostridium_bolteae,0.27,0.13,0.92,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00139,s__bifidobacterium_longum,0.27,0.13,0.11,0.28,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00138,s__clostridium_leptum,0.27,0.78,0.75,0.71,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00138,s__clostridium_hathewayi,0.27,0.78,0.94,0.81,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00138,s__bacteroides_cellulosilyticus,0.27,0.78,0.19,0.38,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00128,s__alistipes_shahii,0.27,0.25,0.51,0.1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bolteae,,g__superoxide dismutase,m__hmdb00118,s__lachnospiraceae_bacterium_2_1_58faa,0.27,0.19,0.89,0.89,FALSE,TRUE,FALSE,FALSE
+s__clostridium_bartlettii,,g__dihydroorotate dehydrogenase quinone,m__hmdb00715,s__clostridium_bartlettii,0.58,0.93,0.26,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__rna helicase,m__hmdb01895,s__clostridium_asparagiforme,0.64,0.87,0.41,1,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__rna helicase,m__hmdb00118,s__bacteroides_xylanisolvens,0.64,0.71,1,0.49,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__rna helicase,m__hmdb00118,s__bacteroides_xylanisolvens,0.64,0.71,1,0.24,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb11718,s__odoribacter_splanchnicus,0.22,0.65,0.1,0.76,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb11718,s__odoribacter_splanchnicus,0.22,0.65,0.1,0.23,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb01991,s__anaerotruncus_unclassified,0.22,0.11,0.84,0.77,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb01991,s__anaerotruncus_unclassified,0.22,0.11,0.84,0.22,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb00139,s__alistipes_putredinis,0.22,0.45,0.89,0.24,FALSE,TRUE,FALSE,FALSE
+s__clostridium_asparagiforme,,g__glutamate decarboxylase,m__hmdb00139,s__alistipes_putredinis,0.22,0.45,0.89,0.15,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00139,s__flavonifractor_plautii,0.49,0.19,0.23,0.83,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00089,s__roseburia_unclassified,0.49,0.28,0.98,0.23,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00089,s__holdemania_filiformis,0.49,0.28,0.16,0.8,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00089,s__holdemania_filiformis,0.49,0.28,0.16,0.8,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00089,s__coprobacillus_unclassified,0.49,0.28,0.18,0.61,FALSE,TRUE,FALSE,FALSE
+s__clostridiales_bacterium_1_7_47faa,,g__bacterial non-heme ferritin,m__hmdb00089,s__clostridiales_bacterium_1_7_47faa,0.49,0.28,0.54,1,FALSE,TRUE,FALSE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__dna helicase,m__hmdb02123,s__clostridium_citroniae,0.64,1,0.55,0.99,FALSE,TRUE,FALSE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__dna helicase,m__hmdb02123,s__clostridium_citroniae,0.64,1,0.55,1,FALSE,TRUE,FALSE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__ruminococcus_lactaris,0.1,0.83,0.74,0.23,FALSE,TRUE,FALSE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__ruminococcus_lactaris,0.1,0.83,0.74,0.4,FALSE,TRUE,FALSE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__16s rrna cytosine1402-n4-methyltransferase,m__hmdb00174,s__clostridiaceae_bacterium_jc118,0.1,0.83,0.46,1,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb02322,s__sutterella_wadsworthensis,0.47,0.24,0.51,0.87,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb02322,s__c2likevirus_unclassified,0.47,0.24,1,1,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb02123,s__dialister_invisus,0.47,0.45,0.16,0.98,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00812,s__haemophilus_parainfluenzae,0.47,0.32,0.25,0.99,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00699,s__ruminococcus_callidus,0.47,1,0.28,0.98,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00699,s__escherichia_coli,0.47,1,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00139,s__faecalibacterium_prausnitzii,0.47,0.19,0.15,1,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00139,s__eubacterium_rectale,0.47,0.19,0.35,1,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00139,s__bifidobacterium_longum,0.47,0.19,0.11,0.15,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00139,s__bifidobacterium_longum,0.47,0.19,0.11,0.97,FALSE,TRUE,FALSE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,m__hmdb00118,s__roseburia_inulinivorans,0.47,0.21,0.34,0.99,FALSE,TRUE,FALSE,FALSE
+s__burkholderiales_bacterium_1_1_47,,g__methionyl aminopeptidase,m__hmdb00806,s__clostridium_clostridioforme,0.22,0.95,1,0.47,FALSE,TRUE,FALSE,FALSE
+s__burkholderiales_bacterium_1_1_47,,g__glutamate decarboxylase,m__hmdb11718,s__dorea_longicatena,0.95,0.65,0.11,0.14,FALSE,TRUE,FALSE,FALSE
+s__burkholderiales_bacterium_1_1_47,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00764,s__bacteroides_vulgatus,0.17,0.31,0.42,0.22,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb01232,s__clostridium_clostridioforme,0.26,0.16,0.13,0.13,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00562,s__bilophila_wadsworthia,0.26,1,0.21,1,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00197,s__odoribacter_splanchnicus,0.26,0.64,0.39,0.21,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00197,s__bacteroides_stercoris,0.26,0.64,0.91,0.57,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00197,s__alistipes_onderdonkii,0.26,0.64,0.57,0.96,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00138,s__bacteroides_xylanisolvens,0.26,0.78,0.5,0.31,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__superoxide dismutase,m__hmdb00063,s__dorea_unclassified,0.26,0.99,0.1,0.49,FALSE,TRUE,FALSE,FALSE
+s__bilophila_wadsworthia,,g__pyridoxal 5-phosphate synthase glutamine hydrolyzing,m__hmdb00039,s__bacteroides_finegoldii,0.18,0.21,0.8,0.58,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__nadh dehydrogenase quinone,m__hmdb02329,s__bilophila_wadsworthia,0.1,0.35,0.35,0.12,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00806,s__dorea_unclassified,0.22,0.95,0.17,0.32,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00806,s__clostridium_clostridioforme,0.22,0.95,1,0.53,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,0.22,0.28,1,0.25,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,0.22,0.28,1,0.69,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00626,s__holdemania_unclassified,0.22,0.28,0.24,0.17,FALSE,TRUE,FALSE,FALSE
+s__bilophila_unclassified,,g__methionyl aminopeptidase,m__hmdb00626,s__bilophila_unclassified,0.22,0.28,0.85,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_longum,,g__serine o-acetyltransferase,m__hmdb00725,s__bacteroides_fragilis,0.29,0.13,0.32,0.25,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_longum,,g__serine o-acetyltransferase,m__hmdb00128,s__peptostreptococcaceae_noname_unclassified,0.29,0.69,0.1,0.1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_longum,,g__dna helicase,m__hmdb02123,s__dorea_unclassified,0.23,1,0.69,0.66,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_longum,,g__dna helicase,m__hmdb01547,s__bifidobacterium_longum,0.23,0.65,0.13,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_longum,,g__dna helicase,m__hmdb00239,s__streptococcus_thermophilus,0.23,0.1,0.23,0.18,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb01257,s__collinsella_aerofaciens,0.51,1,0.46,0.89,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00806,s__veillonella_unclassified,0.51,0.85,0.55,0.82,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00806,s__dorea_unclassified,0.51,0.85,0.17,0.27,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00725,s__veillonella_parvula,0.51,0.13,0.78,0.92,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00725,s__streptococcus_thermophilus,0.51,0.13,0.14,0.48,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00725,s__bacteroides_fragilis,0.51,0.13,0.32,0.25,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00128,s__peptostreptococcaceae_noname_unclassified,0.51,0.69,0.1,0.22,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00128,s__peptostreptococcaceae_noname_unclassified,0.51,0.69,0.1,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00128,s__haemophilus_parainfluenzae,0.51,0.69,0.76,0.46,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00128,s__haemophilus_parainfluenzae,0.51,0.69,0.76,0.1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00128,s__bifidobacterium_adolescentis,0.51,0.69,0.15,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00036,s__escherichia_coli,0.51,0.11,0.21,0.24,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00036,s__bifidobacterium_longum,0.51,0.11,0.21,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__serine o-acetyltransferase,m__hmdb00036,s__bifidobacterium_longum,0.51,0.11,0.21,1,FALSE,TRUE,FALSE,FALSE
+s__bifidobacterium_adolescentis,,g__glyceraldehyde-3-phosphate dehydrogenase phosphorylating,m__hmdb03464,s__prevotella_copri,0.99,0.25,0.28,0.47,FALSE,TRUE,FALSE,FALSE
+s__barnesiella_intestinihominis,,g__nadh dehydrogenase quinone,m__hmdb01991,s__bilophila_unclassified,0.11,0.16,0.81,0.22,FALSE,TRUE,FALSE,FALSE
+s__barnesiella_intestinihominis,,g__nadh dehydrogenase quinone,m__hmdb00812,s__collinsella_aerofaciens,0.11,0.32,0.36,0.73,FALSE,TRUE,FALSE,FALSE
+s__barnesiella_intestinihominis,,g__nadh dehydrogenase quinone,m__hmdb00039,s__eubacterium_siraeum,0.11,0.61,0.42,0.22,FALSE,TRUE,FALSE,FALSE
+s__barnesiella_intestinihominis,,g__nadh dehydrogenase quinone,m__hmdb00014,s__eubacterium_ventriosum,0.11,0.7,0.46,0.11,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_xylanisolvens,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb01991,s__bacteroides_xylanisolvens,0.36,0.25,0.4,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_xylanisolvens,,g__5-formyltetrahydrofolate cyclo-ligase,m__hmdb00094,s__ruminococcus_torques,0.36,0.31,0.56,0.14,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_vulgatus,,g__nadh,m__hmdb03357,s__dorea_unclassified,0.89,0.12,0.5,0.21,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_vulgatus,,g__nadh,m__hmdb01232,s__eubacterium_ventriosum,0.89,0.2,0.2,0.1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_vulgatus,,g__beta-ketoacyl-acyl-carrier-protein synthase ii,m__hmdb00626,s__alistipes_shahii,0.12,0.48,0.56,0.16,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_vulgatus,,g__beta-ketoacyl-acyl-carrier-protein synthase ii,m__hmdb00020,s__eubacterium_siraeum,0.12,0.79,0.45,0.36,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_uniformis,,g__phosphopyruvate hydratase,m__hmdb01991,s__anaerotruncus_unclassified,0.7,0.1,0.84,0.31,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_uniformis,,g__phosphopyruvate hydratase,m__hmdb00873,s__eubacterium_hallii,0.7,0.86,1,0.15,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_uniformis,,g__methionyl aminopeptidase,m__hmdb00239,s__bacteroides_uniformis,0.14,0.2,0.28,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_uniformis,,g__methionyl aminopeptidase,m__hmdb00174,s__alistipes_onderdonkii,0.14,0.11,0.99,0.67,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_stercoris,,g__superoxide dismutase,m__hmdb00197,s__bacteroides_stercoris,0.61,0.64,0.91,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__coprococcus_catus,0.97,1,1,0.1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__coprococcus_catus,0.97,1,1,0.31,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.97,0.57,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__pyridoxal 5-phosphate synthase,m__hmdb00637,s__bifidobacterium_adolescentis,0.75,0.75,0.88,0.1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__pyridoxal 5-phosphate synthase,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,0.75,0.1,1,0.69,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__pyridoxal 5-phosphate synthase,m__hmdb00626,s__holdemania_unclassified,0.75,0.1,0.24,0.31,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__pyridoxal 5-phosphate synthase,m__hmdb00619,s__roseburia_hominis,0.75,0.54,0.1,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__eubacterium_hallii,0.99,1,0.1,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__eubacterium_hallii,0.99,1,0.1,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__dorea_longicatena,0.99,1,1,0.35,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__dorea_longicatena,0.99,1,1,0.54,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__dorea_formicigenerans,0.99,1,1,0.53,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__dorea_formicigenerans,0.99,1,1,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__coprococcus_catus,0.99,1,1,0.21,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__clostridium_citroniae,0.99,1,0.55,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__anaerostipes_hadrus,0.99,1,0.26,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb02123,s__anaerostipes_hadrus,0.99,1,0.26,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00873,s__roseburia_intestinalis,0.99,0.43,0.19,0.16,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__eubacterium_ventriosum,0.99,0.57,0.2,0.21,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.99,0.57,0.12,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_ovatus,0.99,0.57,0.12,0.89,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_faecis,0.99,0.57,0.25,0.97,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00764,s__bacteroides_faecis,0.99,0.57,0.25,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__mitsuokella_unclassified,0.99,0.23,0.43,0.98,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00511,s__mitsuokella_unclassified,0.99,0.23,0.43,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00482,s__holdemania_filiformis,0.99,0.98,0.99,0.78,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00482,s__holdemania_filiformis,0.99,0.98,0.99,0.8,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00482,s__bacteroides_stercoris,0.99,0.98,0.19,0.27,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00482,s__bacteroides_stercoris,0.99,0.98,0.19,0.36,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00244,s__lachnospiraceae_bacterium_1_1_57faa,0.99,1,0.73,0.49,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,m__hmdb00039,s__clostridium_symbiosum,0.99,0.46,0.43,0.22,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__peroxiredoxin,m__hmdb02322,s__streptococcus_thermophilus,0.96,0.21,0.88,0.48,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__peroxiredoxin,m__hmdb02322,s__streptococcus_thermophilus,0.96,0.21,0.88,0.47,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__peroxiredoxin,m__hmdb02322,s__bacteroides_xylanisolvens,0.96,0.21,0.15,0.28,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__glucose-1-phosphate adenylyltransferase,m__hmdb00365,s__roseburia_intestinalis,0.22,0.73,0.71,0.77,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__glucose-1-phosphate adenylyltransferase,m__hmdb00365,s__roseburia_intestinalis,0.22,0.73,0.71,0.54,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__glucose-1-phosphate adenylyltransferase,m__hmdb00139,s__veillonella_atypica,0.22,0.12,0.11,0.17,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__glucose-1-phosphate adenylyltransferase,m__hmdb00139,s__faecalibacterium_prausnitzii,0.22,0.12,0.15,0.8,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_fragilis,,g__aspartate ammonia-lyase,m__hmdb00699,s__bacteroides_fragilis,0.51,0.14,0.61,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00806,s__eubacterium_siraeum,0.1,0.95,0.94,0.45,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00626,s__bacteroides_cellulosilyticus,0.1,0.28,0.8,0.92,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00626,s__alistipes_shahii,0.1,0.28,0.56,0.13,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00174,s__odoribacter_splanchnicus,0.1,0.11,0.42,0.46,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00020,s__eubacterium_eligens,0.1,0.9,0.74,0.14,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__methionyl aminopeptidase,m__hmdb00020,s__eubacterium_eligens,0.1,0.9,0.74,0.85,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_finegoldii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb01149,s__bacteroides_finegoldii,0.46,0.2,1,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_faecis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00764,s__eubacterium_ventriosum,0.16,0.31,0.2,0.19,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_faecis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00764,s__bacteroides_faecis,0.16,0.31,0.25,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_faecis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00128,s__erysipelotrichaceae_bacterium_6_1_45,0.16,0.11,0.9,0.48,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_faecis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb00118,s__lachnospiraceae_bacterium_1_1_57faa,0.16,0.79,0.3,0.72,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb02322,s__alistipes_shahii,0.31,0.2,0.12,0.72,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb01895,s__holdemania_unclassified,0.31,0.87,0.29,0.12,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb01895,s__clostridium_asparagiforme,0.31,0.87,0.41,0.52,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb00118,s__coprococcus_comes,0.31,0.71,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,m__hmdb00118,s__coprococcus_comes,0.31,0.71,0.17,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__preq1 synthase,m__hmdb00197,s__bacteroides_stercoris,0.2,0.13,0.91,0.29,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00619,s__prevotella_copri,0.91,0.67,0.81,0.53,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00619,s__prevotella_copri,0.91,0.67,0.81,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00619,s__eubacterium_eligens,0.91,0.67,0.24,0.15,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00247,s__burkholderiales_bacterium_1_1_47,0.91,0.15,0.42,0.12,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_eggerthii,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00247,s__burkholderiales_bacterium_1_1_47,0.91,0.15,0.42,0.98,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb01232,s__dorea_longicatena,0.49,0.38,0.92,0.4,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb01149,s__peptostreptococcaceae_noname_unclassified,0.49,0.54,1,0.54,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb00873,s__bacteroides_massiliensis,0.49,0.86,0.54,1,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb00873,s__bacteroides_massiliensis,0.49,0.86,0.54,0.89,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb00244,s__lachnospiraceae_bacterium_1_1_57faa,0.49,0.84,0.73,0.23,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__phosphopyruvate hydratase,m__hmdb00039,s__clostridium_citroniae,0.49,0.91,0.63,0.67,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb10169,s__coprococcus_catus,0.68,0.98,0.37,0.89,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb10169,s__coprococcus_catus,0.68,0.98,0.37,0.12,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00764,s__bacteroides_ovatus,0.68,0.65,0.12,0.17,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00626,s__lachnospiraceae_bacterium_5_1_63faa,0.68,0.57,0.15,0.22,FALSE,TRUE,FALSE,FALSE
+s__bacteroides_dorei,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,m__hmdb00365,s__bacteroides_dorei,0.68,0.32,0.96,1,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_unclassified,,g__peptidylprolyl isomerase,m__hmdb00128,s__anaerotruncus_unclassified,0.4,0.12,0.11,1,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_unclassified,,g__3-hydroxybutyryl-coa dehydrogenase,m__hmdb01169,s__lachnospiraceae_bacterium_3_1_46faa,0.19,0.19,0.48,0.4,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_unclassified,,g__3-hydroxybutyryl-coa dehydrogenase,m__hmdb01169,s__lachnospiraceae_bacterium_3_1_46faa,0.19,0.19,0.48,0.49,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_unclassified,,g__3-hydroxybutyryl-coa dehydrogenase,m__hmdb00262,s__ruminococcus_bromii,0.19,0.99,0.86,0.14,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_unclassified,,g__3-hydroxyacyl-coa dehydrogenase,m__hmdb00637,s__bacteroides_xylanisolvens,0.39,0.44,0.36,0.96,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00806,s__anaerotruncus_colihominis,0.32,0.95,0.13,1,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00626,s__ruminococcus_lactaris,0.32,0.28,0.14,0.58,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00626,s__ruminococcus_lactaris,0.32,0.28,0.14,0.15,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00511,s__eggerthella_unclassified,0.32,0.4,0.42,0.93,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00511,s__eggerthella_unclassified,0.32,0.4,0.42,0.87,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00239,s__oscillibacter_unclassified,0.32,0.2,0.7,0.21,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00239,s__oscillibacter_unclassified,0.32,0.2,0.7,0.21,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00174,s__lachnospiraceae_bacterium_7_1_58faa,0.32,0.11,0.38,0.35,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00174,s__lachnospiraceae_bacterium_7_1_58faa,0.32,0.11,0.38,0.35,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00020,s__lachnospiraceae_bacterium_8_1_57faa,0.32,0.9,0.67,0.18,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__methionyl aminopeptidase,m__hmdb00020,s__lachnospiraceae_bacterium_8_1_57faa,0.32,0.9,0.67,0.15,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00619,s__coprococcus_comes,0.98,0.67,0.52,0.8,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00139,s__eubacterium_ramulus,0.98,0.1,0.12,0.87,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00118,s__ruminococcus_torques,0.98,0.21,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__anaerotruncus_colihominis,,g__glucose-6-phosphate dehydrogenase nadp+,m__hmdb00118,s__ruminococcus_torques,0.98,0.21,0.8,1,FALSE,TRUE,FALSE,FALSE
+s__anaerostipes_hadrus,,g__3-hydroxyacyl-coa dehydrogenase,m__hmdb00619,s__roseburia_inulinivorans,0.14,0.47,0.96,0.67,FALSE,TRUE,FALSE,FALSE
+s__alistipes_shahii,,g__methionyl aminopeptidase,m__hmdb00626,s__alistipes_shahii,0.34,0.28,0.56,1,FALSE,TRUE,FALSE,FALSE
+s__alistipes_shahii,,g__methionyl aminopeptidase,m__hmdb00174,s__odoribacter_splanchnicus,0.34,0.11,0.42,0.62,FALSE,TRUE,FALSE,FALSE
+s__alistipes_shahii,,g__methionyl aminopeptidase,m__hmdb00174,s__lachnospiraceae_bacterium_2_1_58faa,0.34,0.11,0.98,0.13,FALSE,TRUE,FALSE,FALSE
+s__alistipes_shahii,,g__glutamate decarboxylase,m__hmdb00139,s__clostridium_bolteae,0.59,0.45,0.92,1,FALSE,TRUE,FALSE,FALSE
+s__alistipes_putredinis,,g__preq1 synthase,m__hmdb00873,s__ruminococcus_callidus,0.16,0.13,1,0.32,FALSE,TRUE,FALSE,FALSE
+s__alistipes_putredinis,,g__preq1 synthase,m__hmdb00873,s__bacteroides_finegoldii,0.16,0.13,0.23,0.4,FALSE,TRUE,FALSE,FALSE
+s__alistipes_putredinis,,g__preq1 synthase,m__hmdb00239,s__alistipes_putredinis,0.16,0.92,0.14,1,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb04610,s__lachnospiraceae_bacterium_5_1_63faa,0.1,0.73,0.47,0.11,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb04610,s__clostridium_asparagiforme,0.1,0.73,0.62,0.96,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb01232,s__bacteroides_massiliensis,0.1,0.18,0.13,0.16,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00956,s__roseburia_unclassified,0.1,0.71,0.68,0.29,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00452,s__lachnospiraceae_bacterium_1_1_57faa,0.1,0.49,0.7,0.25,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00365,s__parabacteroides_distasonis,0.1,0.11,0.25,0.84,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00365,s__coprococcus_catus,0.1,0.11,0.15,0.26,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00056,s__mitsuokella_unclassified,0.1,0.26,0.16,0.68,FALSE,TRUE,FALSE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,m__hmdb00056,s__bacteroides_uniformis,0.1,0.26,0.19,0.71,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00806,s__parabacteroides_unclassified,0.57,0.95,0.73,0.19,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00626,s__subdoligranulum_unclassified,0.57,0.28,0.19,0.23,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,0.57,0.28,0.8,0.39,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00239,s__streptococcus_thermophilus,0.57,0.2,0.23,0.31,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__methionyl aminopeptidase,m__hmdb00174,s__alistipes_onderdonkii,0.57,0.11,0.99,0.19,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb02329,s__bacteroides_finegoldii,0.23,0.37,0.17,0.58,FALSE,TRUE,FALSE,FALSE
+s__akkermansia_muciniphila,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,m__hmdb02329,s__bacteroides_finegoldii,0.23,0.37,0.17,0.53,FALSE,TRUE,FALSE,FALSE
+s__veillonella_dispar,,g__dephospho-coa kinase,,s__clostridium_symbiosum,1,,0.35,0.72,FALSE,FALSE,TRUE,FALSE
+s__veillonella_atypica,,g__enoyl-coa hydratase,,s__veillonella_atypica,1,,0.42,1,FALSE,FALSE,TRUE,FALSE
+s__veillonella_atypica,,g__enoyl-coa hydratase,,s__streptococcus_thermophilus,1,,0.1,0.48,FALSE,FALSE,TRUE,FALSE
+s__streptococcus_parasanguinis,,g__ribulose-bisphosphate carboxylase,,s__streptococcus_parasanguinis,1,,1,1,FALSE,FALSE,TRUE,FALSE
+s__streptococcus_parasanguinis,,g__ribulose-bisphosphate carboxylase,,s__klebsiella_pneumoniae,1,,0.3,1,FALSE,FALSE,TRUE,FALSE
+s__streptococcus_parasanguinis,,g__ribulose-bisphosphate carboxylase,,s__klebsiella_pneumoniae,1,,0.3,0.99,FALSE,FALSE,TRUE,FALSE
+s__streptococcus_parasanguinis,,g__peroxiredoxin,,s__prevotella_copri,0.97,,0.5,1,FALSE,FALSE,TRUE,FALSE
+s__streptococcus_parasanguinis,,g__peroxiredoxin,,s__prevotella_copri,0.97,,0.5,1,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_torques,,g__dna helicase,,s__ruminococcaceae_bacterium_d16,0.68,,1,0.57,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_obeum,,g__superoxide dismutase,,s__oscillibacter_unclassified,0.71,,0.3,0.77,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_obeum,,g__16s rrna cytosine1402-n4-methyltransferase,,s__odoribacter_splanchnicus,0.92,,0.89,0.33,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_obeum,,g__16s rrna cytosine1402-n4-methyltransferase,,s__clostridium_bolteae,0.92,,1,1,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_callidus,,g__shikimate kinase,,s__ruminococcus_callidus,0.76,,0.95,1,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_callidus,,g__shikimate kinase,,s__clostridium_leptum,0.76,,0.22,0.14,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_callidus,,g__shikimate kinase,,s__clostridium_leptum,0.76,,0.22,0.14,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,,s__parabacteroides_merdae,1,,0.98,0.15,FALSE,FALSE,TRUE,FALSE
+s__ruminococcus_callidus,,g__bacterial non-heme ferritin,,s__parabacteroides_merdae,1,,0.98,0.25,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__triose-phosphate isomerase,,s__burkholderiales_bacterium_1_1_47,0.33,,0.83,0.15,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__triose-phosphate isomerase,,s__burkholderiales_bacterium_1_1_47,0.33,,0.83,0.14,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__triose-phosphate isomerase,,s__bacteroides_eggerthii,0.33,,1,0.71,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__thymidylate synthase,,s__alistipes_finegoldii,0.15,,0.35,0.13,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__glycerate 3-kinase,,s__holdemania_unclassified,0.32,,0.94,1,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__glycerate 3-kinase,,s__holdemania_unclassified,0.32,,0.94,1,FALSE,FALSE,TRUE,FALSE
+s__ruminococcaceae_bacterium_d16,,g__glycerate 3-kinase,,s__coprobacillus_unclassified,0.32,,0.66,0.64,FALSE,FALSE,TRUE,FALSE
+s__roseburia_hominis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,,s__bacteroides_stercoris,0.17,,1,0.36,FALSE,FALSE,TRUE,FALSE
+s__roseburia_hominis,,g__3-methyl-2-oxobutanoate hydroxymethyltransferase,,s__bacteroides_stercoris,0.17,,1,0.13,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__preq1 synthase,,s__eubacterium_hallii,0.85,,0.38,0.31,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__hydroxylamine reductase,,s__streptococcus_salivarius,1,,0.95,0.54,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__hydroxylamine reductase,,s__streptococcus_salivarius,1,,0.95,0.45,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__hydroxylamine reductase,,s__anaerostipes_hadrus,1,,0.28,0.23,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__hydroxylamine reductase,,s__anaerostipes_hadrus,1,,0.28,0.24,FALSE,FALSE,TRUE,FALSE
+s__propionibacterium_acnes,,g__3-hydroxyacyl-coa dehydrogenase,,s__mitsuokella_unclassified,0.59,,0.31,0.16,FALSE,FALSE,TRUE,FALSE
+s__prevotella_copri,,g__ribulose-bisphosphate carboxylase,,s__streptococcus_parasanguinis,1,,1,1,FALSE,FALSE,TRUE,FALSE
+s__prevotella_copri,,g__ribulose-bisphosphate carboxylase,,s__klebsiella_pneumoniae,1,,0.3,0.96,FALSE,FALSE,TRUE,FALSE
+s__parasutterella_excrementihominis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_massiliensis,0.26,,0.1,0.71,FALSE,FALSE,TRUE,FALSE
+s__parabacteroides_unclassified,,g__peptidylprolyl isomerase,,s__alistipes_onderdonkii,0.1,,0.4,0.82,FALSE,FALSE,TRUE,FALSE
+s__parabacteroides_unclassified,,g__nadh,,s__parabacteroides_unclassified,0.89,,0.35,1,FALSE,FALSE,TRUE,FALSE
+s__parabacteroides_unclassified,,g__;  q06996: l_sendf    ;  o55528: l_sendo,,s__ruminococcaceae_bacterium_d16,0.49,,0.16,0.43,FALSE,FALSE,TRUE,FALSE
+s__parabacteroides_unclassified,,g__;  q06996: l_sendf    ;  o55528: l_sendo,,s__klebsiella_pneumoniae,0.49,,0.98,0.96,FALSE,FALSE,TRUE,FALSE
+s__parabacteroides_merdae,,g__bacterial non-heme ferritin,,s__parabacteroides_merdae,0.4,,0.98,1,FALSE,FALSE,TRUE,FALSE
+s__odoribacter_splanchnicus,,g__rna helicase,,s__bacteroides_eggerthii,0.69,,1,0.45,FALSE,FALSE,TRUE,FALSE
+s__odoribacter_splanchnicus,,g__5-formyltetrahydrofolate cyclo-ligase,,s__odoribacter_splanchnicus,0.97,,0.98,1,FALSE,FALSE,TRUE,FALSE
+s__odoribacter_splanchnicus,,g__2-c-methyl-d-erythritol 2:4-cyclodiphosphate synthase,,s__clostridium_asparagiforme,0.24,,0.71,0.28,FALSE,FALSE,TRUE,FALSE
+s__mitsuokella_unclassified,,g__endopeptidase clp,,s__ruminococcus_callidus,0.12,,0.24,0.21,FALSE,FALSE,TRUE,FALSE
+s__lachnospiraceae_bacterium_8_1_57faa,,g__shikimate kinase,,s__clostridium_leptum,1,,0.22,0.71,FALSE,FALSE,TRUE,FALSE
+s__lachnospiraceae_bacterium_5_1_63faa,,g__3-hydroxyacyl-coa dehydrogenase,,s__mitsuokella_unclassified,0.56,,0.31,0.44,FALSE,FALSE,TRUE,FALSE
+s__klebsiella_pneumoniae,,g__ribulose-bisphosphate carboxylase,,s__streptococcus_parasanguinis,0.92,,1,1,FALSE,FALSE,TRUE,FALSE
+s__klebsiella_pneumoniae,,g__ribulose-bisphosphate carboxylase,,s__klebsiella_pneumoniae,0.92,,0.3,1,FALSE,FALSE,TRUE,FALSE
+s__eubacterium_rectale,,g__enoyl-coa hydratase,,s__streptococcus_salivarius,0.92,,0.43,0.3,FALSE,FALSE,TRUE,FALSE
+s__eubacterium_eligens,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,,s__eubacterium_eligens,0.29,,0.48,1,FALSE,FALSE,TRUE,FALSE
+s__eggerthella_unclassified,,g__5-formyltetrahydrofolate cyclo-ligase,,s__eggerthella_unclassified,0.49,,0.15,1,FALSE,FALSE,TRUE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_dorei,0.86,,0.77,0.67,FALSE,FALSE,TRUE,FALSE
+s__coprococcus_catus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_dorei,0.86,,0.77,0.12,FALSE,FALSE,TRUE,FALSE
+s__coprobacillus_unclassified,,g__glycerate 3-kinase,,s__coprobacillus_unclassified,0.15,,0.66,1,FALSE,FALSE,TRUE,FALSE
+s__clostridium_symbiosum,,g__glycerate 3-kinase,,s__flavonifractor_plautii,0.48,,0.24,0.95,FALSE,FALSE,TRUE,FALSE
+s__clostridium_symbiosum,,g__glycerate 3-kinase,,s__flavonifractor_plautii,0.48,,0.24,0.95,FALSE,FALSE,TRUE,FALSE
+s__clostridium_symbiosum,,g__glycerate 3-kinase,,s__coprobacillus_unclassified,0.48,,0.66,0.64,FALSE,FALSE,TRUE,FALSE
+s__clostridium_symbiosum,,g__glycerate 3-kinase,,s__coprobacillus_unclassified,0.48,,0.66,0.64,FALSE,FALSE,TRUE,FALSE
+s__clostridium_symbiosum,,g__dephospho-coa kinase,,s__clostridium_symbiosum,1,,0.35,1,FALSE,FALSE,TRUE,FALSE
+s__clostridium_clostridioforme,,g__formate-c-acetyltransferase-activating enzyme,,s__holdemania_filiformis,0.46,,0.2,0.2,FALSE,FALSE,TRUE,FALSE
+s__clostridium_clostridioforme,,g__dephospho-coa kinase,,s__ruminococcaceae_bacterium_d16,1,,0.49,0.24,FALSE,FALSE,TRUE,FALSE
+s__clostridium_clostridioforme,,g__dephospho-coa kinase,,s__clostridium_symbiosum,1,,0.35,1,FALSE,FALSE,TRUE,FALSE
+s__clostridium_citroniae,,g__dna helicase,,s__ruminococcaceae_bacterium_d16,1,,1,0.93,FALSE,FALSE,TRUE,FALSE
+s__clostridium_bartlettii,,g__dihydroorotate dehydrogenase quinone,,s__burkholderiales_bacterium_1_1_47,0.59,,0.86,0.46,FALSE,FALSE,TRUE,FALSE
+s__clostridiaceae_bacterium_jc118,,g__16s rrna cytosine1402-n4-methyltransferase,,s__alistipes_putredinis,0.1,,0.1,0.99,FALSE,FALSE,TRUE,FALSE
+s__c2likevirus_unclassified,,g__bacterial non-heme ferritin,,s__parabacteroides_merdae,0.47,,0.98,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_xylanisolvens,,g__beta-lactamase,,s__bacteroides_xylanisolvens,0.87,,1,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_xylanisolvens,,g__beta-lactamase,,s__alistipes_onderdonkii,0.87,,0.54,0.86,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_xylanisolvens,,g__beta-lactamase,,s__alistipes_onderdonkii,0.87,,0.54,0.14,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_massiliensis,0.97,,0.1,0.11,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_ovatus,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_dorei,0.97,,0.77,0.56,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__preq1 synthase,,s__eubacterium_hallii,1,,0.38,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__preq1 synthase,,s__eubacterium_hallii,1,,0.38,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__coprobacillus_unclassified,0.99,,0.25,0.33,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_massiliensis,0.99,,0.1,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_dorei,0.99,,0.77,0.74,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__phosphoglycerate mutase 2:3-diphosphoglycerate-dependent,,s__bacteroides_dorei,0.99,,0.77,0.11,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__glycerate 3-kinase,,s__holdemania_unclassified,0.44,,0.94,0.31,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__3-hydroxyacyl-coa dehydrogenase,,s__mitsuokella_unclassified,0.57,,0.31,0.98,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_massiliensis,,g__3-hydroxyacyl-coa dehydrogenase,,s__mitsuokella_unclassified,0.57,,0.31,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_finegoldii,,g__glucose-6-phosphate dehydrogenase nadp+,,s__bacteroides_cellulosilyticus,0.46,,0.35,0.92,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_finegoldii,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,,s__eubacterium_eligens,1,,0.48,0.14,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_finegoldii,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,,s__eubacterium_eligens,1,,0.48,0.85,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_finegoldii,,g__5-formyltetrahydrofolate cyclo-ligase,,s__odoribacter_splanchnicus,0.61,,0.98,0.46,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_finegoldii,,g__5-formyltetrahydrofolate cyclo-ligase,,s__alistipes_shahii,0.61,,0.39,0.13,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,,s__burkholderiales_bacterium_1_1_47,0.29,,0.56,0.12,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,,s__burkholderiales_bacterium_1_1_47,0.29,,0.56,0.98,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_eggerthii,,g__rna helicase,,s__bacteroides_eggerthii,0.29,,1,1,FALSE,FALSE,TRUE,FALSE
+s__bacteroides_eggerthii,,g__adenosylmethionine--8-amino-7-oxononanoate transaminase,,s__eubacterium_eligens,1,,0.48,0.15,FALSE,FALSE,TRUE,FALSE
+s__alistipes_onderdonkii,,g__beta-lactamase,,s__alistipes_onderdonkii,0.1,,0.54,1,FALSE,FALSE,TRUE,FALSE
+s__akkermansia_muciniphila,,g__dna-directed rna polymerase,,s__parabacteroides_unclassified,0.39,,0.1,0.19,FALSE,FALSE,TRUE,FALSE
+s__veillonella_atypica,,,m__hmdb00019,s__dorea_unclassified,,0.59,0.1,0.26,FALSE,FALSE,FALSE,TRUE
+s__sutterella_wadsworthensis,,,m__hmdb00043,s__eubacterium_ventriosum,,0.22,0.9,0.14,FALSE,FALSE,FALSE,TRUE
+s__streptococcus_salivarius,,,m__hmdb01895,s__parasutterella_excrementihominis,,0.36,0.11,0.42,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_torques,,,m__hmdb00118,s__clostridium_asparagiforme,,0.51,0.76,0.12,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_obeum,,,m__hmdb00101,s__clostridium_bolteae,,0.99,0.95,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_callidus,,,m__hmdb00873,s__ruminococcus_callidus,,0.17,0.64,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_callidus,,,m__hmdb00873,s__parabacteroides_merdae,,0.17,1,0.15,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_callidus,,,m__hmdb00873,s__parabacteroides_merdae,,0.17,1,0.25,FALSE,FALSE,FALSE,TRUE
+s__ruminococcus_callidus,,,m__hmdb00195,s__c2likevirus_unclassified,,0.39,0.16,0.21,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb01257,s__bacteroides_eggerthii,,0.15,0.58,0.71,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__parasutterella_excrementihominis,,1,0.61,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__parasutterella_excrementihominis,,1,0.61,0.34,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__holdemania_unclassified,,1,0.5,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__holdemania_unclassified,,1,0.5,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,,1,0.74,0.15,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,,1,0.74,0.14,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00239,s__ruminococcaceae_bacterium_d16,,0.93,0.37,1,FALSE,FALSE,FALSE,TRUE
+s__ruminococcaceae_bacterium_d16,,,m__hmdb00174,s__clostridium_hathewayi,,0.34,0.18,0.89,FALSE,FALSE,FALSE,TRUE
+s__roseburia_inulinivorans,,,m__hmdb00020,s__holdemania_filiformis,,0.93,0.1,0.19,FALSE,FALSE,FALSE,TRUE
+s__pseudomonas_unclassified,,,m__hmdb00098,s__ruminococcus_obeum,,0.25,0.84,0.97,FALSE,FALSE,FALSE,TRUE
+s__propionibacterium_acnes,,,m__hmdb00873,s__parabacteroides_merdae,,0.74,1,0.55,FALSE,FALSE,FALSE,TRUE
+s__propionibacterium_acnes,,,m__hmdb00873,s__mitsuokella_unclassified,,0.74,0.54,0.16,FALSE,FALSE,FALSE,TRUE
+s__propionibacterium_acnes,,,m__hmdb00195,s__c2likevirus_unclassified,,1,0.16,0.27,FALSE,FALSE,FALSE,TRUE
+s__prevotella_copri,,,m__hmdb00019,s__streptococcus_parasanguinis,,0.28,0.68,1,FALSE,FALSE,FALSE,TRUE
+s__parasutterella_excrementihominis,,,m__hmdb00806,s__parasutterella_excrementihominis,,0.25,0.33,1,FALSE,FALSE,FALSE,TRUE
+s__odoribacter_splanchnicus,,,m__hmdb01257,s__bacteroides_eggerthii,,1,0.58,0.45,FALSE,FALSE,FALSE,TRUE
+s__odoribacter_splanchnicus,,,m__hmdb00637,s__odoribacter_splanchnicus,,0.99,0.17,1,FALSE,FALSE,FALSE,TRUE
+s__odoribacter_splanchnicus,,,m__hmdb00101,s__clostridium_bolteae,,0.98,0.95,1,FALSE,FALSE,FALSE,TRUE
+s__mitsuokella_unclassified,,,m__hmdb10169,s__mitsuokella_unclassified,,0.87,0.76,1,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_7_1_58faa,,,m__hmdb04610,s__clostridium_asparagiforme,,0.32,0.13,0.11,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb01169,s__parabacteroides_distasonis,,0.96,0.65,0.35,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb01169,s__bacteroides_cellulosilyticus,,0.96,0.81,0.41,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00806,s__parasutterella_excrementihominis,,0.27,0.33,0.34,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00806,s__eubacterium_siraeum,,0.27,0.54,0.97,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00806,s__dorea_unclassified,,0.27,0.1,0.19,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00764,s__collinsella_aerofaciens,,0.51,0.12,0.87,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00626,s__lachnospiraceae_bacterium_3_1_46faa,,1,1,1,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00626,s__bilophila_unclassified,,1,0.97,0.72,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00626,s__alistipes_shahii,,1,0.64,0.89,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00626,s__alistipes_shahii,,1,0.64,0.59,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_3_1_46faa,,,m__hmdb00365,s__ruminococcus_bromii,,1,0.55,0.78,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_2_1_58faa,,,m__hmdb01169,s__bacteroides_cellulosilyticus,,0.2,0.81,0.83,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_2_1_58faa,,,m__hmdb00247,s__clostridium_clostridioforme,,0.26,0.23,0.19,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_2_1_58faa,,,m__hmdb00174,s__clostridium_hathewayi,,0.98,0.18,0.99,FALSE,FALSE,FALSE,TRUE
+s__lachnospiraceae_bacterium_2_1_58faa,,,m__hmdb00174,s__clostridium_hathewayi,,0.98,0.18,1,FALSE,FALSE,FALSE,TRUE
+s__holdemania_filiformis,,,m__hmdb00699,s__escherichia_unclassified,,0.33,0.3,0.59,FALSE,FALSE,FALSE,TRUE
+s__holdemania_filiformis,,,m__hmdb00020,s__holdemania_filiformis,,0.5,0.1,1,FALSE,FALSE,FALSE,TRUE
+s__haemophilus_parainfluenzae,,,m__hmdb01149,s__streptococcus_thermophilus,,0.29,0.52,0.5,FALSE,FALSE,FALSE,TRUE
+s__flavonifractor_plautii,,,m__hmdb02322,s__flavonifractor_plautii,,0.1,0.25,1,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,,0.64,0.55,0.66,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,,0.64,0.55,0.94,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb02123,s__eubacterium_ramulus,,0.64,0.11,0.3,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb01257,s__anaerostipes_hadrus,,0.12,0.1,0.14,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb00043,s__eubacterium_ventriosum,,1,0.9,1,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb00043,s__dorea_formicigenerans,,1,0.28,0.11,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_ventriosum,,,m__hmdb00043,s__collinsella_aerofaciens,,1,0.35,0.95,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_siraeum,,,m__hmdb03464,s__eubacterium_siraeum,,0.62,0.2,1,FALSE,FALSE,FALSE,TRUE
+s__eubacterium_siraeum,,,m__hmdb00067,s__lachnospiraceae_bacterium_3_1_46faa,,0.93,0.63,1,FALSE,FALSE,FALSE,TRUE
+s__dorea_unclassified,,,m__hmdb00118,s__bacteroides_xylanisolvens,,0.87,1,0.17,FALSE,FALSE,FALSE,TRUE
+s__dorea_unclassified,,,m__hmdb00118,s__bacteroides_xylanisolvens,,0.87,1,0.14,FALSE,FALSE,FALSE,TRUE
+s__dorea_unclassified,,,m__hmdb00019,s__dorea_unclassified,,0.13,0.1,1,FALSE,FALSE,FALSE,TRUE
+s__dialister_invisus,,,m__hmdb00296,s__dorea_unclassified,,0.82,0.67,0.39,FALSE,FALSE,FALSE,TRUE
+s__coprococcus_comes,,,m__hmdb03464,s__parasutterella_excrementihominis,,0.28,0.22,0.25,FALSE,FALSE,FALSE,TRUE
+s__coprococcus_comes,,,m__hmdb03464,s__alistipes_shahii,,0.28,0.33,0.18,FALSE,FALSE,FALSE,TRUE
+s__coprococcus_catus,,,m__hmdb02123,s__bacteroides_dorei,,0.34,0.97,0.67,FALSE,FALSE,FALSE,TRUE
+s__coprococcus_catus,,,m__hmdb02123,s__bacteroides_dorei,,0.34,0.97,0.12,FALSE,FALSE,FALSE,TRUE
+s__coprococcus_catus,,,m__hmdb00043,s__clostridium_citroniae,,0.65,0.79,0.33,FALSE,FALSE,FALSE,TRUE
+s__collinsella_aerofaciens,,,m__hmdb10169,s__collinsella_aerofaciens,,0.92,0.46,1,FALSE,FALSE,FALSE,TRUE
+s__collinsella_aerofaciens,,,m__hmdb00251,s__flavonifractor_plautii,,1,0.1,0.4,FALSE,FALSE,FALSE,TRUE
+s__collinsella_aerofaciens,,,m__hmdb00194,s__bacteroides_eggerthii,,0.18,1,0.13,FALSE,FALSE,FALSE,TRUE
+s__collinsella_aerofaciens,,,m__hmdb00194,s__bacteroides_eggerthii,,0.18,1,0.14,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00806,s__sutterella_wadsworthensis,,0.71,0.76,0.38,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00806,s__clostridium_symbiosum,,0.71,0.9,1,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00806,s__bifidobacterium_adolescentis,,0.71,0.15,0.42,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00448,s__coprobacillus_unclassified,,0.45,0.66,0.64,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00448,s__coprobacillus_unclassified,,0.45,0.66,0.64,FALSE,FALSE,FALSE,TRUE
+s__clostridium_symbiosum,,,m__hmdb00014,s__parabacteroides_unclassified,,0.28,0.56,0.23,FALSE,FALSE,FALSE,TRUE
+s__clostridium_hathewayi,,,m__hmdb00296,s__dorea_unclassified,,0.13,0.67,0.24,FALSE,FALSE,FALSE,TRUE
+s__clostridium_hathewayi,,,m__hmdb00194,s__bacteroides_finegoldii,,0.13,0.21,0.52,FALSE,FALSE,FALSE,TRUE
+s__clostridium_bolteae,,,m__hmdb03464,s__alistipes_shahii,,0.91,0.33,0.1,FALSE,FALSE,FALSE,TRUE
+s__clostridium_bolteae,,,m__hmdb00101,s__clostridium_bolteae,,0.84,0.95,1,FALSE,FALSE,FALSE,TRUE
+s__clostridium_bolteae,,,m__hmdb00056,s__bacteroides_caccae,,0.16,0.36,0.82,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__clostridium_asparagiforme,,0.2,0.13,1,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__bacteroides_xylanisolvens,,0.2,0.99,0.49,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__bacteroides_xylanisolvens,,0.2,0.99,0.24,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__anaerotruncus_unclassified,,0.2,0.16,0.77,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__anaerotruncus_unclassified,,0.2,0.16,0.22,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__alistipes_putredinis,,0.2,0.96,0.24,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb04610,s__alistipes_putredinis,,0.2,0.96,0.15,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb00156,s__odoribacter_splanchnicus,,0.13,0.21,0.76,FALSE,FALSE,FALSE,TRUE
+s__clostridium_asparagiforme,,,m__hmdb00156,s__odoribacter_splanchnicus,,0.13,0.21,0.23,FALSE,FALSE,FALSE,TRUE
+s__burkholderiales_bacterium_1_1_47,,,m__hmdb00626,s__burkholderiales_bacterium_1_1_47,,0.24,0.74,1,FALSE,FALSE,FALSE,TRUE
+s__bilophila_wadsworthia,,,m__hmdb00296,s__dorea_unclassified,,0.12,0.67,0.49,FALSE,FALSE,FALSE,TRUE
+s__bilophila_unclassified,,,m__hmdb00239,s__bacteroides_eggerthii,,0.91,0.19,0.67,FALSE,FALSE,FALSE,TRUE
+s__bilophila_unclassified,,,m__hmdb00067,s__lachnospiraceae_bacterium_3_1_46faa,,0.1,0.63,0.25,FALSE,FALSE,FALSE,TRUE
+s__bilophila_unclassified,,,m__hmdb00067,s__lachnospiraceae_bacterium_3_1_46faa,,0.1,0.63,0.69,FALSE,FALSE,FALSE,TRUE
+s__bilophila_unclassified,,,m__hmdb00019,s__dorea_unclassified,,0.37,0.1,0.32,FALSE,FALSE,FALSE,TRUE
+s__bifidobacterium_adolescentis,,,m__hmdb01149,s__streptococcus_thermophilus,,0.12,0.52,0.48,FALSE,FALSE,FALSE,TRUE
+s__bifidobacterium_adolescentis,,,m__hmdb01149,s__dorea_unclassified,,0.12,0.1,0.27,FALSE,FALSE,FALSE,TRUE
+s__bifidobacterium_adolescentis,,,m__hmdb01149,s__collinsella_aerofaciens,,0.12,0.23,0.89,FALSE,FALSE,FALSE,TRUE
+s__barnesiella_intestinihominis,,,m__hmdb00806,s__eubacterium_siraeum,,0.44,0.54,0.22,FALSE,FALSE,FALSE,TRUE
+s__barnesiella_intestinihominis,,,m__hmdb00626,s__bilophila_unclassified,,0.59,0.97,0.22,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_xylanisolvens,,,m__hmdb00174,s__alistipes_onderdonkii,,0.22,0.98,0.86,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_xylanisolvens,,,m__hmdb00174,s__alistipes_onderdonkii,,0.22,0.98,0.14,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_vulgatus,,,m__hmdb02123,s__dorea_unclassified,,0.15,0.58,0.21,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_vulgatus,,,m__hmdb02123,s__bacteroides_dorei,,0.15,0.97,0.4,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_thetaiotaomicron,,,m__hmdb00699,s__holdemania_unclassified,,0.26,0.1,0.77,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_thetaiotaomicron,,,m__hmdb00699,s__holdemania_unclassified,,0.26,0.1,0.5,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_ovatus,,,m__hmdb02123,s__bacteroides_massiliensis,,0.91,0.51,0.11,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_ovatus,,,m__hmdb02123,s__bacteroides_dorei,,0.91,0.97,0.56,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb11718,s__coprococcus_catus,,0.47,0.19,0.21,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,,1,0.55,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__lachnospiraceae_bacterium_5_1_63faa,,1,0.55,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__eubacterium_ramulus,,1,0.11,0.26,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__bacteroides_massiliensis,,1,0.51,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__bacteroides_dorei,,1,0.97,0.74,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb02123,s__bacteroides_dorei,,1,0.97,0.11,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00448,s__lachnospiraceae_bacterium_3_1_46faa,,0.75,0.12,0.69,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00448,s__coprobacillus_unclassified,,0.75,0.66,0.33,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00043,s__eubacterium_ventriosum,,1,0.9,0.21,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00043,s__dorea_formicigenerans,,1,0.28,0.53,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00043,s__dorea_formicigenerans,,1,0.28,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00043,s__clostridium_citroniae,,1,0.79,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00020,s__roseburia_intestinalis,,0.48,0.16,0.16,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00020,s__holdemania_filiformis,,0.48,0.1,0.78,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_massiliensis,,,m__hmdb00020,s__holdemania_filiformis,,0.48,0.1,0.8,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb01169,s__alistipes_shahii,,0.41,0.25,0.72,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__prevotella_copri,,1,0.99,0.53,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__prevotella_copri,,1,0.99,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__eubacterium_eligens,,1,0.66,0.15,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__coprococcus_comes,,1,0.64,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__coprococcus_comes,,1,0.64,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__clostridium_asparagiforme,,1,0.77,0.52,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00194,s__bacteroides_eggerthii,,1,1,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00020,s__burkholderiales_bacterium_1_1_47,,1,0.29,0.12,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_eggerthii,,,m__hmdb00020,s__burkholderiales_bacterium_1_1_47,,1,0.29,0.98,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_cellulosilyticus,,,m__hmdb01169,s__parabacteroides_distasonis,,1,0.65,0.39,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_cellulosilyticus,,,m__hmdb01169,s__eubacterium_siraeum,,1,1,0.4,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_cellulosilyticus,,,m__hmdb01169,s__bacteroides_cellulosilyticus,,1,0.81,1,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_cellulosilyticus,,,m__hmdb00194,s__lachnospiraceae_bacterium_3_1_46faa,,0.76,0.52,0.35,FALSE,FALSE,FALSE,TRUE
+s__bacteroides_caccae,,,m__hmdb01991,s__clostridium_bolteae,,0.58,0.16,1,FALSE,FALSE,FALSE,TRUE
+s__anaerotruncus_unclassified,,,m__hmdb00448,s__lachnospiraceae_bacterium_3_1_46faa,,0.61,0.12,0.4,FALSE,FALSE,FALSE,TRUE
+s__anaerotruncus_unclassified,,,m__hmdb00448,s__lachnospiraceae_bacterium_3_1_46faa,,0.61,0.12,0.49,FALSE,FALSE,FALSE,TRUE
+s__anaerotruncus_unclassified,,,m__hmdb00365,s__ruminococcus_bromii,,0.54,0.55,0.14,FALSE,FALSE,FALSE,TRUE
+s__anaerotruncus_colihominis,,,m__hmdb00452,s__ruminococcus_torques,,0.21,0.87,1,FALSE,FALSE,FALSE,TRUE
+s__anaerotruncus_colihominis,,,m__hmdb00452,s__ruminococcus_torques,,0.21,0.87,1,FALSE,FALSE,FALSE,TRUE
+s__anaerostipes_hadrus,,,m__hmdb01257,s__collinsella_aerofaciens,,0.95,0.15,0.1,FALSE,FALSE,FALSE,TRUE
+s__anaerostipes_hadrus,,,m__hmdb01257,s__anaerostipes_hadrus,,0.95,0.1,1,FALSE,FALSE,FALSE,TRUE
+s__alistipes_onderdonkii,,,m__hmdb01232,s__alistipes_onderdonkii,,0.45,1,1,FALSE,FALSE,FALSE,TRUE
+s__alistipes_onderdonkii,,,m__hmdb00197,s__parabacteroides_distasonis,,0.33,0.13,0.84,FALSE,FALSE,FALSE,TRUE
+s__akkermansia_muciniphila,,,m__hmdb00806,s__holdemania_filiformis,,0.48,0.57,0.21,FALSE,FALSE,FALSE,TRUE
+s__akkermansia_muciniphila,,,m__hmdb00806,s__clostridium_symbiosum,,0.48,0.9,0.36,FALSE,FALSE,FALSE,TRUE
+s__akkermansia_muciniphila,,,m__hmdb00806,s__akkermansia_muciniphila,,0.48,0.77,1,FALSE,FALSE,FALSE,TRUE
+s__akkermansia_muciniphila,,,m__hmdb00098,s__burkholderiales_bacterium_1_1_47,,0.14,0.62,0.39,FALSE,FALSE,FALSE,TRUE

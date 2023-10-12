@@ -1,0 +1,2 @@
+Prefix plugins/Unroll/example/
+Plugin Unroll inputfile networks/ outputfile stats.csv
